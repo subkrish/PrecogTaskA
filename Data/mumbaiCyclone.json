@@ -1,0 +1,4631 @@
+/* 1 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daec"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @NewsX: #CycloneOckhi whips Mumbai: City records highest December rainfall in 142 years #MumbaiRains #mumbaicyclone \nhttps://t.co/0d2EqN…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(938286061297512448),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 23405846,
+                "indices" : [ 
+                    3, 
+                    9
+                ],
+                "id_str" : "23405846",
+                "screen_name" : "NewsX",
+                "name" : "NewsX"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    11, 
+                    24
+                ],
+                "text" : "CycloneOckhi"
+            }, 
+            {
+                "indices" : [ 
+                    91, 
+                    103
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    104, 
+                    118
+                ],
+                "text" : "mumbaicyclone"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 1,
+    "id_str" : "938286061297512448",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : false,
+        "text" : "#CycloneOckhi whips Mumbai: City records highest December rainfall in 142 years #MumbaiRains #mumbaicyclone \nhttps://t.co/0d2EqNkWqm",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(938281445881274368),
+        "favorite_count" : 3,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        0, 
+                        13
+                    ],
+                    "text" : "CycloneOckhi"
+                }, 
+                {
+                    "indices" : [ 
+                        80, 
+                        92
+                    ],
+                    "text" : "MumbaiRains"
+                }, 
+                {
+                    "indices" : [ 
+                        93, 
+                        107
+                    ],
+                    "text" : "mumbaicyclone"
+                }
+            ],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/0d2EqNkWqm",
+                    "indices" : [ 
+                        109, 
+                        132
+                    ],
+                    "expanded_url" : "http://www.newsx.com/national/cyclone-ockhi-whips-mumbai-city-records-highest-december-rainfall-in-142-years",
+                    "display_url" : "newsx.com/national/cyclo…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 1,
+        "id_str" : "938281445881274368",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : 23405846,
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/532869636824375296/PMIJL6pK.jpeg",
+            "verified" : true,
+            "translator_type" : "none",
+            "profile_text_color" : "141410",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/874158722976579586/wuRqwCaW_normal.jpg",
+            "profile_sidebar_fill_color" : "F0D875",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "http://t.co/udk2dJPBb3",
+                            "indices" : [ 
+                                0, 
+                                22
+                            ],
+                            "expanded_url" : "http://newsx.com",
+                            "display_url" : "newsx.com"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : [ 
+                        {
+                            "url" : "https://t.co/pkSgS2q37E",
+                            "indices" : [ 
+                                101, 
+                                124
+                            ],
+                            "expanded_url" : "http://goo.gl/UswmvD",
+                            "display_url" : "goo.gl/UswmvD"
+                        }
+                    ]
+                }
+            },
+            "followers_count" : 923474,
+            "profile_sidebar_border_color" : "FFFFFF",
+            "id_str" : "23405846",
+            "profile_background_color" : "206CBD",
+            "listed_count" : 742,
+            "is_translation_enabled" : false,
+            "utc_offset" : 19800,
+            "statuses_count" : 304942,
+            "description" : "India's leading English News Channel and the #1 choice of the young, aspiring and the urbane. LiveTV:https://t.co/pkSgS2q37E\nSports News from @NewsX_Sports",
+            "friends_count" : 125,
+            "location" : "India",
+            "profile_link_color" : "E1111D",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/874158722976579586/wuRqwCaW_normal.jpg",
+            "following" : null,
+            "geo_enabled" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/23405846/1497271700",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/532869636824375296/PMIJL6pK.jpeg",
+            "screen_name" : "NewsX",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 6,
+            "name" : "NewsX",
+            "notifications" : null,
+            "url" : "http://t.co/udk2dJPBb3",
+            "created_at" : "Mon Mar 09 05:24:34 +0000 2009",
+            "contributors_enabled" : false,
+            "time_zone" : "New Delhi",
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Wed Dec 06 05:38:23 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 613419315,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/734524603549290497/yp9gzHw4_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 64,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "613419315",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 10,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 1552,
+        "description" : "",
+        "friends_count" : 2371,
+        "location" : "Culcheth, Warrington, England",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/734524603549290497/yp9gzHw4_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/613419315/1463959289",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "glngerhoo",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 1308,
+        "name" : "Ginger Donahoo",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Wed Jun 20 10:49:34 +0000 2012",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Wed Dec 06 05:56:44 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daed"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "#CycloneOckhi whips Mumbai: City records highest December rainfall in 142 years #MumbaiRains #mumbaicyclone \nhttps://t.co/0d2EqNkWqm",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(938281445881274368),
+    "favorite_count" : 3,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    0, 
+                    13
+                ],
+                "text" : "CycloneOckhi"
+            }, 
+            {
+                "indices" : [ 
+                    80, 
+                    92
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    93, 
+                    107
+                ],
+                "text" : "mumbaicyclone"
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/0d2EqNkWqm",
+                "indices" : [ 
+                    109, 
+                    132
+                ],
+                "expanded_url" : "http://www.newsx.com/national/cyclone-ockhi-whips-mumbai-city-records-highest-december-rainfall-in-142-years",
+                "display_url" : "newsx.com/national/cyclo…"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 1,
+    "id_str" : "938281445881274368",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 23405846,
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/532869636824375296/PMIJL6pK.jpeg",
+        "verified" : true,
+        "translator_type" : "none",
+        "profile_text_color" : "141410",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/874158722976579586/wuRqwCaW_normal.jpg",
+        "profile_sidebar_fill_color" : "F0D875",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "http://t.co/udk2dJPBb3",
+                        "indices" : [ 
+                            0, 
+                            22
+                        ],
+                        "expanded_url" : "http://newsx.com",
+                        "display_url" : "newsx.com"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/pkSgS2q37E",
+                        "indices" : [ 
+                            101, 
+                            124
+                        ],
+                        "expanded_url" : "http://goo.gl/UswmvD",
+                        "display_url" : "goo.gl/UswmvD"
+                    }
+                ]
+            }
+        },
+        "followers_count" : 923474,
+        "profile_sidebar_border_color" : "FFFFFF",
+        "id_str" : "23405846",
+        "profile_background_color" : "206CBD",
+        "listed_count" : 742,
+        "is_translation_enabled" : false,
+        "utc_offset" : 19800,
+        "statuses_count" : 304942,
+        "description" : "India's leading English News Channel and the #1 choice of the young, aspiring and the urbane. LiveTV:https://t.co/pkSgS2q37E\nSports News from @NewsX_Sports",
+        "friends_count" : 125,
+        "location" : "India",
+        "profile_link_color" : "E1111D",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/874158722976579586/wuRqwCaW_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/23405846/1497271700",
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/532869636824375296/PMIJL6pK.jpeg",
+        "screen_name" : "NewsX",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 6,
+        "name" : "NewsX",
+        "notifications" : null,
+        "url" : "http://t.co/udk2dJPBb3",
+        "created_at" : "Mon Mar 09 05:24:34 +0000 2009",
+        "contributors_enabled" : false,
+        "time_zone" : "New Delhi",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Wed Dec 06 05:38:23 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daee"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @Anchor_Venky: #MumbaiRains #Mumbai #CycloneOckhi #mumbaicyclone #MondayMotivaton @ANI @News18India @Reuters @ZeeNews @ndtv @TimesNow @u…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(938115534108860416),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 575592037,
+                "indices" : [ 
+                    3, 
+                    16
+                ],
+                "id_str" : "575592037",
+                "screen_name" : "Anchor_Venky",
+                "name" : "Venky_Adiga"
+            }, 
+            {
+                "id" : 355989081,
+                "indices" : [ 
+                    85, 
+                    89
+                ],
+                "id_str" : "355989081",
+                "screen_name" : "ANI",
+                "name" : "ANI"
+            }, 
+            {
+                "id" : 98362607,
+                "indices" : [ 
+                    90, 
+                    102
+                ],
+                "id_str" : "98362607",
+                "screen_name" : "News18India",
+                "name" : "News18 India"
+            }, 
+            {
+                "id" : 1652541,
+                "indices" : [ 
+                    103, 
+                    111
+                ],
+                "id_str" : "1652541",
+                "screen_name" : "Reuters",
+                "name" : "Reuters Top News"
+            }, 
+            {
+                "id" : 18071358,
+                "indices" : [ 
+                    112, 
+                    120
+                ],
+                "id_str" : "18071358",
+                "screen_name" : "ZeeNews",
+                "name" : "Zee News"
+            }, 
+            {
+                "id" : 37034483,
+                "indices" : [ 
+                    121, 
+                    126
+                ],
+                "id_str" : "37034483",
+                "screen_name" : "ndtv",
+                "name" : "NDTV"
+            }, 
+            {
+                "id" : 240649814,
+                "indices" : [ 
+                    127, 
+                    136
+                ],
+                "id_str" : "240649814",
+                "screen_name" : "TimesNow",
+                "name" : "TIMES NOW"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    18, 
+                    30
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    31, 
+                    38
+                ],
+                "text" : "Mumbai"
+            }, 
+            {
+                "indices" : [ 
+                    39, 
+                    52
+                ],
+                "text" : "CycloneOckhi"
+            }, 
+            {
+                "indices" : [ 
+                    53, 
+                    67
+                ],
+                "text" : "mumbaicyclone"
+            }, 
+            {
+                "indices" : [ 
+                    68, 
+                    84
+                ],
+                "text" : "MondayMotivaton"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 2,
+    "id_str" : "938115534108860416",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "#MumbaiRains #Mumbai #CycloneOckhi #mumbaicyclone #MondayMotivaton @ANI @News18India @Reuters @ZeeNews @ndtv… https://t.co/8QztQViFk1",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(937964320037642241),
+        "favorite_count" : 2,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [ 
+                {
+                    "id" : 355989081,
+                    "indices" : [ 
+                        67, 
+                        71
+                    ],
+                    "id_str" : "355989081",
+                    "screen_name" : "ANI",
+                    "name" : "ANI"
+                }, 
+                {
+                    "id" : 98362607,
+                    "indices" : [ 
+                        72, 
+                        84
+                    ],
+                    "id_str" : "98362607",
+                    "screen_name" : "News18India",
+                    "name" : "News18 India"
+                }, 
+                {
+                    "id" : 1652541,
+                    "indices" : [ 
+                        85, 
+                        93
+                    ],
+                    "id_str" : "1652541",
+                    "screen_name" : "Reuters",
+                    "name" : "Reuters Top News"
+                }, 
+                {
+                    "id" : 18071358,
+                    "indices" : [ 
+                        94, 
+                        102
+                    ],
+                    "id_str" : "18071358",
+                    "screen_name" : "ZeeNews",
+                    "name" : "Zee News"
+                }, 
+                {
+                    "id" : 37034483,
+                    "indices" : [ 
+                        103, 
+                        108
+                    ],
+                    "id_str" : "37034483",
+                    "screen_name" : "ndtv",
+                    "name" : "NDTV"
+                }
+            ],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        0, 
+                        12
+                    ],
+                    "text" : "MumbaiRains"
+                }, 
+                {
+                    "indices" : [ 
+                        13, 
+                        20
+                    ],
+                    "text" : "Mumbai"
+                }, 
+                {
+                    "indices" : [ 
+                        21, 
+                        34
+                    ],
+                    "text" : "CycloneOckhi"
+                }, 
+                {
+                    "indices" : [ 
+                        35, 
+                        49
+                    ],
+                    "text" : "mumbaicyclone"
+                }, 
+                {
+                    "indices" : [ 
+                        50, 
+                        66
+                    ],
+                    "text" : "MondayMotivaton"
+                }
+            ],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/8QztQViFk1",
+                    "indices" : [ 
+                        110, 
+                        133
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/937964320037642241",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 2,
+        "id_str" : "937964320037642241",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : 575592037,
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/823261530791809024/NDjW5Utj_normal.jpg",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "entities" : {
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 226,
+            "profile_sidebar_border_color" : "C0DEED",
+            "id_str" : "575592037",
+            "profile_background_color" : "C0DEED",
+            "listed_count" : 1,
+            "is_translation_enabled" : false,
+            "utc_offset" : -28800,
+            "statuses_count" : 2238,
+            "description" : "A TV Anchor & Newspaper Publisher by Profession. I just live by my name- Venky- which means connecting people",
+            "friends_count" : 93,
+            "location" : "",
+            "profile_link_color" : "1DA1F2",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/823261530791809024/NDjW5Utj_normal.jpg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/575592037/1512019032",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name" : "Anchor_Venky",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 651,
+            "name" : "Venky_Adiga",
+            "notifications" : null,
+            "url" : null,
+            "created_at" : "Wed May 09 18:51:20 +0000 2012",
+            "contributors_enabled" : false,
+            "time_zone" : "Pacific Time (US & Canada)",
+            "protected" : false,
+            "default_profile" : true,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "lang" : "en",
+        "created_at" : "Tue Dec 05 08:38:15 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : {
+            "full_name" : "Navi Mumbai, India",
+            "url" : "https://api.twitter.com/1.1/geo/id/514d0719e0a80a43.json",
+            "country" : "India",
+            "place_type" : "city",
+            "bounding_box" : {
+                "type" : "Polygon",
+                "coordinates" : [ 
+                    [ 
+                        [ 
+                            72.958588, 
+                            18.986727
+                        ], 
+                        [ 
+                            73.113183, 
+                            18.986727
+                        ], 
+                        [ 
+                            73.113183, 
+                            19.206734
+                        ], 
+                        [ 
+                            72.958588, 
+                            19.206734
+                        ]
+                    ]
+                ]
+            },
+            "contained_within" : [],
+            "country_code" : "IN",
+            "attributes" : {},
+            "id" : "514d0719e0a80a43",
+            "name" : "Navi Mumbai"
+        },
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 575592037,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/823261530791809024/NDjW5Utj_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 226,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "575592037",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 1,
+        "is_translation_enabled" : false,
+        "utc_offset" : -28800,
+        "statuses_count" : 2238,
+        "description" : "A TV Anchor & Newspaper Publisher by Profession. I just live by my name- Venky- which means connecting people",
+        "friends_count" : 93,
+        "location" : "",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/823261530791809024/NDjW5Utj_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/575592037/1512019032",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "Anchor_Venky",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 651,
+        "name" : "Venky_Adiga",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Wed May 09 18:51:20 +0000 2012",
+        "contributors_enabled" : false,
+        "time_zone" : "Pacific Time (US & Canada)",
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 18:39:07 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daef"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "#OkhiCyclone is just a coincidence......... #MumbaiRains  have come back to link her #AadharCard before 31st Decemb… https://t.co/Fp7EKEFCzf",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(938108727655268353),
+    "favorite_count" : 1,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    0, 
+                    12
+                ],
+                "text" : "OkhiCyclone"
+            }, 
+            {
+                "indices" : [ 
+                    44, 
+                    56
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    85, 
+                    96
+                ],
+                "text" : "AadharCard"
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/Fp7EKEFCzf",
+                "indices" : [ 
+                    117, 
+                    140
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/938108727655268353",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "938108727655268353",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : true,
+        "id" : NumberLong(748472807550558208),
+        "profile_background_image_url_https" : null,
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 14,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "748472807550558208",
+        "profile_background_color" : "F5F8FA",
+        "listed_count" : 3,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 1380,
+        "description" : "Retweets does not mean endorsement",
+        "friends_count" : 25,
+        "location" : "",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_background_image_url" : null,
+        "screen_name" : "resilient_sham",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 75,
+        "name" : "Sham",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Thu Jun 30 11:06:38 +0000 2016",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 18:12:04 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daf0"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "Mumbai- rise in bhajiyas and chai intake during the day. Whiskey and rum at night. #MumbaiRains #mumbaicyclone #chillweather",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(938097835269955584),
+    "favorite_count" : 1,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    83, 
+                    95
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    96, 
+                    110
+                ],
+                "text" : "mumbaicyclone"
+            }, 
+            {
+                "indices" : [ 
+                    111, 
+                    124
+                ],
+                "text" : "chillweather"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "938097835269955584",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 57607760,
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/674710378/ee2943dac93d9ebb2a624647328d9c32.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/638040957796007936/HWXYPO_3_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 353,
+        "profile_sidebar_border_color" : "FFFFFF",
+        "id_str" : "57607760",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 13,
+        "is_translation_enabled" : false,
+        "utc_offset" : 19800,
+        "statuses_count" : 6230,
+        "description" : "Relaxed and easy going. Entrepreneur. Big FOODIE. Car ENTHUSIAST. Music LOVER. BEER/WHISKEY. BUTTER chicken. #MCFC. #India",
+        "friends_count" : 1004,
+        "location" : "Bombay",
+        "profile_link_color" : "0084B4",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/638040957796007936/HWXYPO_3_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/674710378/ee2943dac93d9ebb2a624647328d9c32.png",
+        "screen_name" : "anshulchopra",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 93,
+        "name" : "Anshul Chopra",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Fri Jul 17 10:18:15 +0000 2009",
+        "contributors_enabled" : false,
+        "time_zone" : "Mumbai",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 17:28:47 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daf1"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "In the eye of the storm right now! #mumbaicyclone #OckhiCyclone",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(938065192646336513),
+    "favorite_count" : 76,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    35, 
+                    49
+                ],
+                "text" : "mumbaicyclone"
+            }, 
+            {
+                "indices" : [ 
+                    50, 
+                    63
+                ],
+                "text" : "OckhiCyclone"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "938065192646336513",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : false,
+        "default_profile_image" : false,
+        "id" : 106967351,
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000159522341/VjkB_kkE.jpeg",
+        "verified" : true,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/930071340933091329/C-W73qvt_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 188359,
+        "profile_sidebar_border_color" : "000000",
+        "id_str" : "106967351",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 110,
+        "is_translation_enabled" : false,
+        "utc_offset" : -36000,
+        "statuses_count" : 9438,
+        "description" : "I'm an ex VJ now TV Presenter & Actor who occasionally sings in the bathroom. Please mail Enquiries to iamvjandy@gmail.com insta:iamvjandy",
+        "friends_count" : 966,
+        "location" : "Mumbai, India",
+        "profile_link_color" : "0084B4",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/930071340933091329/C-W73qvt_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/106967351/1510581264",
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000159522341/VjkB_kkE.jpeg",
+        "screen_name" : "iAmVJAndy",
+        "lang" : "en",
+        "profile_background_tile" : true,
+        "favourites_count" : 2874,
+        "name" : "Andy",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Thu Jan 21 06:10:26 +0000 2010",
+        "contributors_enabled" : false,
+        "time_zone" : "Hawaii",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 15:19:04 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : {
+        "full_name" : "Mumbai, India",
+        "url" : "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+        "country" : "India",
+        "place_type" : "city",
+        "bounding_box" : {
+            "type" : "Polygon",
+            "coordinates" : [ 
+                [ 
+                    [ 
+                        72.74484, 
+                        18.845343
+                    ], 
+                    [ 
+                        73.003648, 
+                        18.845343
+                    ], 
+                    [ 
+                        73.003648, 
+                        19.502937
+                    ], 
+                    [ 
+                        72.74484, 
+                        19.502937
+                    ]
+                ]
+            ]
+        },
+        "contained_within" : [],
+        "country_code" : "IN",
+        "attributes" : {},
+        "id" : "7929cea6bd5b32bd",
+        "name" : "Mumbai"
+    },
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daf2"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "#mumbaicyclone #cockhi Stay home Stay safe! https://t.co/huvZEt0SJv",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(938022818868088832),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    0, 
+                    14
+                ],
+                "text" : "mumbaicyclone"
+            }, 
+            {
+                "indices" : [ 
+                    15, 
+                    22
+                ],
+                "text" : "cockhi"
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/huvZEt0SJv",
+                "indices" : [ 
+                    44, 
+                    67
+                ],
+                "expanded_url" : "http://fb.me/O5H9kBqV",
+                "display_url" : "fb.me/O5H9kBqV"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "938022818868088832",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : false,
+        "default_profile_image" : false,
+        "id" : 363475630,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "000000",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/705389055748407296/7NrrD-87_normal.jpg",
+        "profile_sidebar_fill_color" : "000000",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 358,
+        "profile_sidebar_border_color" : "000000",
+        "id_str" : "363475630",
+        "profile_background_color" : "000000",
+        "listed_count" : 3,
+        "is_translation_enabled" : false,
+        "utc_offset" : 19800,
+        "statuses_count" : 4580,
+        "description" : "#LeftArmMediumFast #Bowler #Engineer #Thinker",
+        "friends_count" : 1006,
+        "location" : "India",
+        "profile_link_color" : "3B94D9",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/705389055748407296/7NrrD-87_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/363475630/1449810667",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "screen_name" : "ashwanigaat",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 28,
+        "name" : "Ashwani Gaat",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Sun Aug 28 04:23:06 +0000 2011",
+        "contributors_enabled" : false,
+        "time_zone" : "Chennai",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 12:30:42 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daf3"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @ashishgakrey: #Cyclone likely 2hit #Mumbai\n #tommorow #MumbaiRains #MumbaiCyclone #GlobalWarming #MumbaiWeather #MumbaiWeatherPredicati…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(938019616777031681),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 113977467,
+                "indices" : [ 
+                    3, 
+                    16
+                ],
+                "id_str" : "113977467",
+                "screen_name" : "ashishgakrey",
+                "name" : "Ashish Gakrey"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    18, 
+                    26
+                ],
+                "text" : "Cyclone"
+            }, 
+            {
+                "indices" : [ 
+                    39, 
+                    46
+                ],
+                "text" : "Mumbai"
+            }, 
+            {
+                "indices" : [ 
+                    48, 
+                    57
+                ],
+                "text" : "tommorow"
+            }, 
+            {
+                "indices" : [ 
+                    58, 
+                    70
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    71, 
+                    85
+                ],
+                "text" : "MumbaiCyclone"
+            }, 
+            {
+                "indices" : [ 
+                    86, 
+                    100
+                ],
+                "text" : "GlobalWarming"
+            }, 
+            {
+                "indices" : [ 
+                    101, 
+                    115
+                ],
+                "text" : "MumbaiWeather"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 2,
+    "id_str" : "938019616777031681",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "#Cyclone likely 2hit #Mumbai\n #tommorow #MumbaiRains #MumbaiCyclone #GlobalWarming #MumbaiWeather… https://t.co/feACHlgfmW",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(937685983562170369),
+        "favorite_count" : 3,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        0, 
+                        8
+                    ],
+                    "text" : "Cyclone"
+                }, 
+                {
+                    "indices" : [ 
+                        21, 
+                        28
+                    ],
+                    "text" : "Mumbai"
+                }, 
+                {
+                    "indices" : [ 
+                        30, 
+                        39
+                    ],
+                    "text" : "tommorow"
+                }, 
+                {
+                    "indices" : [ 
+                        40, 
+                        52
+                    ],
+                    "text" : "MumbaiRains"
+                }, 
+                {
+                    "indices" : [ 
+                        53, 
+                        67
+                    ],
+                    "text" : "MumbaiCyclone"
+                }, 
+                {
+                    "indices" : [ 
+                        68, 
+                        82
+                    ],
+                    "text" : "GlobalWarming"
+                }, 
+                {
+                    "indices" : [ 
+                        83, 
+                        97
+                    ],
+                    "text" : "MumbaiWeather"
+                }
+            ],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/feACHlgfmW",
+                    "indices" : [ 
+                        99, 
+                        122
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/937685983562170369",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 2,
+        "id_str" : "937685983562170369",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : true,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : 113977467,
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/911308895620038657/blD8ZtSQ_normal.jpg",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "https://t.co/OE8FejN6ib",
+                            "indices" : [ 
+                                0, 
+                                23
+                            ],
+                            "expanded_url" : "https://twitter.com/hr_shapers",
+                            "display_url" : "twitter.com/hr_shapers"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 2206,
+            "profile_sidebar_border_color" : "C0DEED",
+            "id_str" : "113977467",
+            "profile_background_color" : "C0DEED",
+            "listed_count" : 317,
+            "is_translation_enabled" : false,
+            "utc_offset" : null,
+            "statuses_count" : 17140,
+            "description" : "#HR @ Capgemini India, Founder @hr_shapers #HRShapers Founder @mthr_global @mthrchrocxo EC @nhrdmumbai PP @hriamumbai Not an alumni of XLRI TISS. TW = Own Views",
+            "friends_count" : 173,
+            "location" : "Mumbai, India",
+            "profile_link_color" : "B32400",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/911308895620038657/blD8ZtSQ_normal.jpg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/113977467/1490289109",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name" : "ashishgakrey",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 29529,
+            "name" : "Ashish Gakrey",
+            "notifications" : null,
+            "url" : "https://t.co/OE8FejN6ib",
+            "created_at" : "Sat Feb 13 17:35:18 +0000 2010",
+            "contributors_enabled" : false,
+            "time_zone" : null,
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Mon Dec 04 14:12:14 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 90325268,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "634047",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1378805527/Jennifer_Varghese_photo_normal.JPG",
+        "profile_sidebar_fill_color" : "E3E2DE",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 48,
+        "profile_sidebar_border_color" : "D3D2CF",
+        "id_str" : "90325268",
+        "profile_background_color" : "EDECE9",
+        "listed_count" : 0,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 54,
+        "description" : "",
+        "friends_count" : 87,
+        "location" : "Dubai",
+        "profile_link_color" : "088253",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/1378805527/Jennifer_Varghese_photo_normal.JPG",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "screen_name" : "visitjennifer",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 5,
+        "name" : "Jennifer Varghese",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Mon Nov 16 04:38:50 +0000 2009",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 12:17:58 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daf4"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "Mumbai Worli Sea Link Bridge Flooding - Okchi Cyclone\n#Mumbai #okchicyclone #mumbaicyclone #cyclone\nWatch the... https://t.co/IuHKwDRky4",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937993852161527808),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    54, 
+                    61
+                ],
+                "text" : "Mumbai"
+            }, 
+            {
+                "indices" : [ 
+                    62, 
+                    75
+                ],
+                "text" : "okchicyclone"
+            }, 
+            {
+                "indices" : [ 
+                    76, 
+                    90
+                ],
+                "text" : "mumbaicyclone"
+            }, 
+            {
+                "indices" : [ 
+                    91, 
+                    99
+                ],
+                "text" : "cyclone"
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/IuHKwDRky4",
+                "indices" : [ 
+                    113, 
+                    136
+                ],
+                "expanded_url" : "http://fb.me/BEUGUH8G",
+                "display_url" : "fb.me/BEUGUH8G"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "937993852161527808",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 756612102,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "634047",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/3630262943/26378f1c2d6a825218f0a03048269061_normal.jpeg",
+        "profile_sidebar_fill_color" : "E3E2DE",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 14,
+        "profile_sidebar_border_color" : "D3D2CF",
+        "id_str" : "756612102",
+        "profile_background_color" : "EDECE9",
+        "listed_count" : 0,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 554,
+        "description" : "",
+        "friends_count" : 12,
+        "location" : "",
+        "profile_link_color" : "088253",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/3630262943/26378f1c2d6a825218f0a03048269061_normal.jpeg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/756612102/1368008463",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "screen_name" : "sumitbunty07",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 0,
+        "name" : "Sumit Paul",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Tue Aug 14 06:34:23 +0000 2012",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 10:35:36 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daf5"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @Anchor_Venky: #MumbaiRains #Mumbai #CycloneOckhi #mumbaicyclone #MondayMotivaton @ANI @News18India @Reuters @ZeeNews @ndtv @TimesNow @u…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937964883911499776),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 575592037,
+                "indices" : [ 
+                    3, 
+                    16
+                ],
+                "id_str" : "575592037",
+                "screen_name" : "Anchor_Venky",
+                "name" : "Venky_Adiga"
+            }, 
+            {
+                "id" : 355989081,
+                "indices" : [ 
+                    85, 
+                    89
+                ],
+                "id_str" : "355989081",
+                "screen_name" : "ANI",
+                "name" : "ANI"
+            }, 
+            {
+                "id" : 98362607,
+                "indices" : [ 
+                    90, 
+                    102
+                ],
+                "id_str" : "98362607",
+                "screen_name" : "News18India",
+                "name" : "News18 India"
+            }, 
+            {
+                "id" : 1652541,
+                "indices" : [ 
+                    103, 
+                    111
+                ],
+                "id_str" : "1652541",
+                "screen_name" : "Reuters",
+                "name" : "Reuters Top News"
+            }, 
+            {
+                "id" : 18071358,
+                "indices" : [ 
+                    112, 
+                    120
+                ],
+                "id_str" : "18071358",
+                "screen_name" : "ZeeNews",
+                "name" : "Zee News"
+            }, 
+            {
+                "id" : 37034483,
+                "indices" : [ 
+                    121, 
+                    126
+                ],
+                "id_str" : "37034483",
+                "screen_name" : "ndtv",
+                "name" : "NDTV"
+            }, 
+            {
+                "id" : 240649814,
+                "indices" : [ 
+                    127, 
+                    136
+                ],
+                "id_str" : "240649814",
+                "screen_name" : "TimesNow",
+                "name" : "TIMES NOW"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    18, 
+                    30
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    31, 
+                    38
+                ],
+                "text" : "Mumbai"
+            }, 
+            {
+                "indices" : [ 
+                    39, 
+                    52
+                ],
+                "text" : "CycloneOckhi"
+            }, 
+            {
+                "indices" : [ 
+                    53, 
+                    67
+                ],
+                "text" : "mumbaicyclone"
+            }, 
+            {
+                "indices" : [ 
+                    68, 
+                    84
+                ],
+                "text" : "MondayMotivaton"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 2,
+    "id_str" : "937964883911499776",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "#MumbaiRains #Mumbai #CycloneOckhi #mumbaicyclone #MondayMotivaton @ANI @News18India @Reuters @ZeeNews @ndtv… https://t.co/8QztQViFk1",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(937964320037642241),
+        "favorite_count" : 2,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [ 
+                {
+                    "id" : 355989081,
+                    "indices" : [ 
+                        67, 
+                        71
+                    ],
+                    "id_str" : "355989081",
+                    "screen_name" : "ANI",
+                    "name" : "ANI"
+                }, 
+                {
+                    "id" : 98362607,
+                    "indices" : [ 
+                        72, 
+                        84
+                    ],
+                    "id_str" : "98362607",
+                    "screen_name" : "News18India",
+                    "name" : "News18 India"
+                }, 
+                {
+                    "id" : 1652541,
+                    "indices" : [ 
+                        85, 
+                        93
+                    ],
+                    "id_str" : "1652541",
+                    "screen_name" : "Reuters",
+                    "name" : "Reuters Top News"
+                }, 
+                {
+                    "id" : 18071358,
+                    "indices" : [ 
+                        94, 
+                        102
+                    ],
+                    "id_str" : "18071358",
+                    "screen_name" : "ZeeNews",
+                    "name" : "Zee News"
+                }, 
+                {
+                    "id" : 37034483,
+                    "indices" : [ 
+                        103, 
+                        108
+                    ],
+                    "id_str" : "37034483",
+                    "screen_name" : "ndtv",
+                    "name" : "NDTV"
+                }
+            ],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        0, 
+                        12
+                    ],
+                    "text" : "MumbaiRains"
+                }, 
+                {
+                    "indices" : [ 
+                        13, 
+                        20
+                    ],
+                    "text" : "Mumbai"
+                }, 
+                {
+                    "indices" : [ 
+                        21, 
+                        34
+                    ],
+                    "text" : "CycloneOckhi"
+                }, 
+                {
+                    "indices" : [ 
+                        35, 
+                        49
+                    ],
+                    "text" : "mumbaicyclone"
+                }, 
+                {
+                    "indices" : [ 
+                        50, 
+                        66
+                    ],
+                    "text" : "MondayMotivaton"
+                }
+            ],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/8QztQViFk1",
+                    "indices" : [ 
+                        110, 
+                        133
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/937964320037642241",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 2,
+        "id_str" : "937964320037642241",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : 575592037,
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/823261530791809024/NDjW5Utj_normal.jpg",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "entities" : {
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 226,
+            "profile_sidebar_border_color" : "C0DEED",
+            "id_str" : "575592037",
+            "profile_background_color" : "C0DEED",
+            "listed_count" : 1,
+            "is_translation_enabled" : false,
+            "utc_offset" : -28800,
+            "statuses_count" : 2238,
+            "description" : "A TV Anchor & Newspaper Publisher by Profession. I just live by my name- Venky- which means connecting people",
+            "friends_count" : 93,
+            "location" : "",
+            "profile_link_color" : "1DA1F2",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/823261530791809024/NDjW5Utj_normal.jpg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/575592037/1512019032",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name" : "Anchor_Venky",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 651,
+            "name" : "Venky_Adiga",
+            "notifications" : null,
+            "url" : null,
+            "created_at" : "Wed May 09 18:51:20 +0000 2012",
+            "contributors_enabled" : false,
+            "time_zone" : "Pacific Time (US & Canada)",
+            "protected" : false,
+            "default_profile" : true,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "lang" : "en",
+        "created_at" : "Tue Dec 05 08:38:15 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : {
+            "full_name" : "Navi Mumbai, India",
+            "url" : "https://api.twitter.com/1.1/geo/id/514d0719e0a80a43.json",
+            "country" : "India",
+            "place_type" : "city",
+            "bounding_box" : {
+                "type" : "Polygon",
+                "coordinates" : [ 
+                    [ 
+                        [ 
+                            72.958588, 
+                            18.986727
+                        ], 
+                        [ 
+                            73.113183, 
+                            18.986727
+                        ], 
+                        [ 
+                            73.113183, 
+                            19.206734
+                        ], 
+                        [ 
+                            72.958588, 
+                            19.206734
+                        ]
+                    ]
+                ]
+            },
+            "contained_within" : [],
+            "country_code" : "IN",
+            "attributes" : {},
+            "id" : "514d0719e0a80a43",
+            "name" : "Navi Mumbai"
+        },
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : NumberLong(2433589441),
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/798501433800695808/I24L0eQx_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 89,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "2433589441",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 0,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 1207,
+        "description" : "",
+        "friends_count" : 170,
+        "location" : "",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/798501433800695808/I24L0eQx_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2433589441/1475939767",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "ajitkutty",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 190,
+        "name" : "Ajit S K",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Tue Apr 08 13:01:46 +0000 2014",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 08:40:29 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daf6"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "#MumbaiRains #Mumbai #CycloneOckhi #mumbaicyclone #MondayMotivaton @ANI @News18India @Reuters @ZeeNews @ndtv… https://t.co/8QztQViFk1",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937964320037642241),
+    "favorite_count" : 2,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 355989081,
+                "indices" : [ 
+                    67, 
+                    71
+                ],
+                "id_str" : "355989081",
+                "screen_name" : "ANI",
+                "name" : "ANI"
+            }, 
+            {
+                "id" : 98362607,
+                "indices" : [ 
+                    72, 
+                    84
+                ],
+                "id_str" : "98362607",
+                "screen_name" : "News18India",
+                "name" : "News18 India"
+            }, 
+            {
+                "id" : 1652541,
+                "indices" : [ 
+                    85, 
+                    93
+                ],
+                "id_str" : "1652541",
+                "screen_name" : "Reuters",
+                "name" : "Reuters Top News"
+            }, 
+            {
+                "id" : 18071358,
+                "indices" : [ 
+                    94, 
+                    102
+                ],
+                "id_str" : "18071358",
+                "screen_name" : "ZeeNews",
+                "name" : "Zee News"
+            }, 
+            {
+                "id" : 37034483,
+                "indices" : [ 
+                    103, 
+                    108
+                ],
+                "id_str" : "37034483",
+                "screen_name" : "ndtv",
+                "name" : "NDTV"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    0, 
+                    12
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    13, 
+                    20
+                ],
+                "text" : "Mumbai"
+            }, 
+            {
+                "indices" : [ 
+                    21, 
+                    34
+                ],
+                "text" : "CycloneOckhi"
+            }, 
+            {
+                "indices" : [ 
+                    35, 
+                    49
+                ],
+                "text" : "mumbaicyclone"
+            }, 
+            {
+                "indices" : [ 
+                    50, 
+                    66
+                ],
+                "text" : "MondayMotivaton"
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/8QztQViFk1",
+                "indices" : [ 
+                    110, 
+                    133
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/937964320037642241",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 2,
+    "id_str" : "937964320037642241",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 575592037,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/823261530791809024/NDjW5Utj_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 226,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "575592037",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 1,
+        "is_translation_enabled" : false,
+        "utc_offset" : -28800,
+        "statuses_count" : 2238,
+        "description" : "A TV Anchor & Newspaper Publisher by Profession. I just live by my name- Venky- which means connecting people",
+        "friends_count" : 93,
+        "location" : "",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/823261530791809024/NDjW5Utj_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/575592037/1512019032",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "Anchor_Venky",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 651,
+        "name" : "Venky_Adiga",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Wed May 09 18:51:20 +0000 2012",
+        "contributors_enabled" : false,
+        "time_zone" : "Pacific Time (US & Canada)",
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 08:38:15 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : {
+        "full_name" : "Navi Mumbai, India",
+        "url" : "https://api.twitter.com/1.1/geo/id/514d0719e0a80a43.json",
+        "country" : "India",
+        "place_type" : "city",
+        "bounding_box" : {
+            "type" : "Polygon",
+            "coordinates" : [ 
+                [ 
+                    [ 
+                        72.958588, 
+                        18.986727
+                    ], 
+                    [ 
+                        73.113183, 
+                        18.986727
+                    ], 
+                    [ 
+                        73.113183, 
+                        19.206734
+                    ], 
+                    [ 
+                        72.958588, 
+                        19.206734
+                    ]
+                ]
+            ]
+        },
+        "contained_within" : [],
+        "country_code" : "IN",
+        "attributes" : {},
+        "id" : "514d0719e0a80a43",
+        "name" : "Navi Mumbai"
+    },
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daf7"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "#MumbaiRains yet again just when you thought the cyclone wont have an impact you get a minor hit called #MumbaiCyclone stay safe guys💖",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937933521229934593),
+    "favorite_count" : 2,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    0, 
+                    12
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    104, 
+                    118
+                ],
+                "text" : "MumbaiCyclone"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "937933521229934593",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : false,
+        "default_profile_image" : false,
+        "id" : NumberLong(3320096600),
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "000000",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/758311801284984833/2aNhrXZu_normal.jpg",
+        "profile_sidebar_fill_color" : "000000",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/w91dkCsTwh",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "http://www.runwaylifestyle.com",
+                        "display_url" : "runwaylifestyle.com"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/rSpSER4rAP",
+                        "indices" : [ 
+                            113, 
+                            136
+                        ],
+                        "expanded_url" : "http://www.instagram.com/runwaylifestyl",
+                        "display_url" : "instagram.com/runwaylifestyl"
+                    }
+                ]
+            }
+        },
+        "followers_count" : 70,
+        "profile_sidebar_border_color" : "000000",
+        "id_str" : "3320096600",
+        "profile_background_color" : "000000",
+        "listed_count" : 0,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 168,
+        "description" : "events | talent A boutique agency and a première fashion and lifestyle event company. info@runwaylifestyle.com | https://t.co/rSpSER4rAP",
+        "friends_count" : 342,
+        "location" : "Mumbai, Maharashtra",
+        "profile_link_color" : "ABB8C2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/758311801284984833/2aNhrXZu_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/3320096600/1472027374",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "runwaylifestyl",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 83,
+        "name" : "R  U  N  W  A  Y",
+        "notifications" : null,
+        "url" : "https://t.co/w91dkCsTwh",
+        "created_at" : "Wed Aug 19 14:10:25 +0000 2015",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 06:35:52 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : {
+        "full_name" : "Mumbai, India",
+        "url" : "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+        "country" : "India",
+        "place_type" : "city",
+        "bounding_box" : {
+            "type" : "Polygon",
+            "coordinates" : [ 
+                [ 
+                    [ 
+                        72.74484, 
+                        18.845343
+                    ], 
+                    [ 
+                        73.003648, 
+                        18.845343
+                    ], 
+                    [ 
+                        73.003648, 
+                        19.502937
+                    ], 
+                    [ 
+                        72.74484, 
+                        19.502937
+                    ]
+                ]
+            ]
+        },
+        "contained_within" : [],
+        "country_code" : "IN",
+        "attributes" : {},
+        "id" : "7929cea6bd5b32bd",
+        "name" : "Mumbai"
+    },
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daf8"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "It's almost 12! How is the cyclone looking on your side of town? #mumbaicyclone",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937931180443287553),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    65, 
+                    79
+                ],
+                "text" : "mumbaicyclone"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "937931180443287553",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 987027037,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/875197099264032768/9P5ade28_normal.jpg",
+        "profile_sidebar_fill_color" : "EFEFEF",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/x3bG7QM0MO",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "http://www.maaofallblogs.com",
+                        "display_url" : "maaofallblogs.com"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 5741,
+        "profile_sidebar_border_color" : "EEEEEE",
+        "id_str" : "987027037",
+        "profile_background_color" : "131516",
+        "listed_count" : 182,
+        "is_translation_enabled" : false,
+        "utc_offset" : 19800,
+        "statuses_count" : 16197,
+        "description" : "Mommy and not single, Speaker, Travelophile, Runner, Yogini. Founder & Chief Editor- MaaOfAllBlogs",
+        "friends_count" : 2500,
+        "location" : "",
+        "profile_link_color" : "009999",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/875197099264032768/9P5ade28_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/987027037/1493381592",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "screen_name" : "maaofallblogs",
+        "lang" : "en",
+        "profile_background_tile" : true,
+        "favourites_count" : 10800,
+        "name" : "Prerna Sinha",
+        "notifications" : null,
+        "url" : "https://t.co/x3bG7QM0MO",
+        "created_at" : "Mon Dec 03 17:00:55 +0000 2012",
+        "contributors_enabled" : false,
+        "time_zone" : "Asia/Calcutta",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 06:26:33 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daf9"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "#mumbaicyclone #cockhi Stay home Stay safe! https://t.co/4qLoHWuaev",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937909679711313920),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    0, 
+                    14
+                ],
+                "text" : "mumbaicyclone"
+            }, 
+            {
+                "indices" : [ 
+                    15, 
+                    22
+                ],
+                "text" : "cockhi"
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/4qLoHWuaev",
+                "indices" : [ 
+                    44, 
+                    67
+                ],
+                "expanded_url" : "http://fb.me/BTQMagZv",
+                "display_url" : "fb.me/BTQMagZv"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "937909679711313920",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : false,
+        "default_profile_image" : false,
+        "id" : 363475630,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "000000",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/705389055748407296/7NrrD-87_normal.jpg",
+        "profile_sidebar_fill_color" : "000000",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 358,
+        "profile_sidebar_border_color" : "000000",
+        "id_str" : "363475630",
+        "profile_background_color" : "000000",
+        "listed_count" : 3,
+        "is_translation_enabled" : false,
+        "utc_offset" : 19800,
+        "statuses_count" : 4580,
+        "description" : "#LeftArmMediumFast #Bowler #Engineer #Thinker",
+        "friends_count" : 1006,
+        "location" : "India",
+        "profile_link_color" : "3B94D9",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/705389055748407296/7NrrD-87_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/363475630/1449810667",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "screen_name" : "ashwanigaat",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 28,
+        "name" : "Ashwani Gaat",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Sun Aug 28 04:23:06 +0000 2011",
+        "contributors_enabled" : false,
+        "time_zone" : "Chennai",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 05:01:07 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902dafa"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "Visuals of the Bandra Worli Sea Link during high tide....Stay safe guys! 🙄\n\n#MumbaiCyclone #MumbaiRains… https://t.co/j0PjFllItD",
+    "is_quote_status" : true,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937897606155571200),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    76, 
+                    90
+                ],
+                "text" : "MumbaiCyclone"
+            }, 
+            {
+                "indices" : [ 
+                    91, 
+                    103
+                ],
+                "text" : "MumbaiRains"
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/j0PjFllItD",
+                "indices" : [ 
+                    105, 
+                    128
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/937897606155571200",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "quoted_status_id" : NumberLong(937883211903901697),
+    "retweeted" : false,
+    "coordinates" : null,
+    "quoted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "Cyclone Ockhi is still 500 km away and expected to pass Mumbai Coast tomorrow evening from distance. It will be Win… https://t.co/EomFXcFxdn",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(937883211903901697),
+        "favorite_count" : 24,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [],
+            "hashtags" : [],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/EomFXcFxdn",
+                    "indices" : [ 
+                        117, 
+                        140
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/937883211903901697",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 22,
+        "id_str" : "937883211903901697",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : true,
+            "profile_use_background_image" : false,
+            "default_profile_image" : false,
+            "id" : 951244716,
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "000000",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/936659728620388352/3LbrEhTT_normal.jpg",
+            "profile_sidebar_fill_color" : "000000",
+            "entities" : {
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 10670,
+            "profile_sidebar_border_color" : "000000",
+            "id_str" : "951244716",
+            "profile_background_color" : "000000",
+            "listed_count" : 26,
+            "is_translation_enabled" : false,
+            "utc_offset" : null,
+            "statuses_count" : 69813,
+            "description" : "Work in Film Information Trade Paper, Mumbai1973 to 2005,My Philosophy:सहन शक्ति की कोई सीमा नहीं होती\nVisit Likes which are My Monopoly\nBe Happy & Keep Happy",
+            "friends_count" : 90,
+            "location" : "Indore, India",
+            "profile_link_color" : "3B94D9",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/936659728620388352/3LbrEhTT_normal.jpg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/951244716/1512211375",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "screen_name" : "gautammutha1",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 30560,
+            "name" : "Gautam Mutha",
+            "notifications" : null,
+            "url" : null,
+            "created_at" : "Fri Nov 16 08:19:52 +0000 2012",
+            "contributors_enabled" : false,
+            "time_zone" : null,
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Tue Dec 05 03:15:57 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : {
+            "full_name" : "Indore, India",
+            "url" : "https://api.twitter.com/1.1/geo/id/4a00f902bee39847.json",
+            "country" : "India",
+            "place_type" : "city",
+            "bounding_box" : {
+                "type" : "Polygon",
+                "coordinates" : [ 
+                    [ 
+                        [ 
+                            75.690789, 
+                            22.525584
+                        ], 
+                        [ 
+                            76.245579, 
+                            22.525584
+                        ], 
+                        [ 
+                            76.245579, 
+                            22.817381
+                        ], 
+                        [ 
+                            75.690789, 
+                            22.817381
+                        ]
+                    ]
+                ]
+            },
+            "contained_within" : [],
+            "country_code" : "IN",
+            "attributes" : {},
+            "id" : "4a00f902bee39847",
+            "name" : "Indore"
+        },
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "937897606155571200",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 123597118,
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/666523244728455168/yeAwLWt2.jpg",
+        "verified" : false,
+        "translator_type" : "regular",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/860207820268068867/FpsqlsDg_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/QbTtiuIVGf",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "https://www.facebook.com/kunal.chouhan.798?fref=ts",
+                        "display_url" : "facebook.com/kunal.chouhan.…"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 69,
+        "profile_sidebar_border_color" : "FFFFFF",
+        "id_str" : "123597118",
+        "profile_background_color" : "C6E2EE",
+        "listed_count" : 1,
+        "is_translation_enabled" : false,
+        "utc_offset" : 19800,
+        "statuses_count" : 69,
+        "description" : "Social Media Account Manager @GOZOOP",
+        "friends_count" : 105,
+        "location" : "Mumbai, Maharashtra",
+        "profile_link_color" : "3B94D9",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/860207820268068867/FpsqlsDg_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/123597118/1404126519",
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/666523244728455168/yeAwLWt2.jpg",
+        "screen_name" : "kunalchavan1124",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 79,
+        "name" : "kunal chavan",
+        "notifications" : null,
+        "url" : "https://t.co/QbTtiuIVGf",
+        "created_at" : "Tue Mar 16 16:04:38 +0000 2010",
+        "contributors_enabled" : false,
+        "time_zone" : "New Delhi",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 04:13:09 +0000 2017",
+    "quoted_status_id_str" : "937883211903901697",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902dafb"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "@TweetHer_ Ohh..a one n nly daring n dashing.. lady.. u can 👏👌\n#Mumbaicyclone\n#Earlymorningrains\n#Awesomeweather",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : NumberLong(937885417113755648),
+    "id" : NumberLong(937887113533468673),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 97244987,
+                "indices" : [ 
+                    0, 
+                    10
+                ],
+                "id_str" : "97244987",
+                "screen_name" : "TweetHer_",
+                "name" : "Anu"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    63, 
+                    77
+                ],
+                "text" : "Mumbaicyclone"
+            }, 
+            {
+                "indices" : [ 
+                    78, 
+                    96
+                ],
+                "text" : "Earlymorningrains"
+            }, 
+            {
+                "indices" : [ 
+                    97, 
+                    112
+                ],
+                "text" : "Awesomeweather"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+    "in_reply_to_screen_name" : "TweetHer_",
+    "in_reply_to_user_id" : 97244987,
+    "retweet_count" : 0,
+    "id_str" : "937887113533468673",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 267838075,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "3D1957",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/500248342308196353/U2t-yJu2_normal.jpeg",
+        "profile_sidebar_fill_color" : "7AC3EE",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 14,
+        "profile_sidebar_border_color" : "FFFFFF",
+        "id_str" : "267838075",
+        "profile_background_color" : "642D8B",
+        "listed_count" : 0,
+        "is_translation_enabled" : false,
+        "utc_offset" : 19800,
+        "statuses_count" : 97,
+        "description" : "I am sharath there is nothing to say about me. I'm just a simple person and want to leave a simple life..N I don't care what others think of me..jst move on..",
+        "friends_count" : 46,
+        "location" : "home",
+        "profile_link_color" : "FF0000",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/500248342308196353/U2t-yJu2_normal.jpeg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/267838075/1408103306",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "screen_name" : "saikundurthy",
+        "lang" : "en",
+        "profile_background_tile" : true,
+        "favourites_count" : 274,
+        "name" : "Sharath@Unstoppable",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Thu Mar 17 16:50:16 +0000 2011",
+        "contributors_enabled" : false,
+        "time_zone" : "Mumbai",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : "97244987",
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 03:31:27 +0000 2017",
+    "in_reply_to_status_id_str" : "937885417113755648",
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902dafc"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "Dear @CMOMaharashtra you declare holidays for public sector but what about private sector, we have to anyway go for… https://t.co/8fFePQ5E99",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937871206765563905),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : NumberLong(2597666894),
+                "indices" : [ 
+                    5, 
+                    20
+                ],
+                "id_str" : "2597666894",
+                "screen_name" : "CMOMaharashtra",
+                "name" : "CMO Maharashtra"
+            }
+        ],
+        "hashtags" : [],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/8fFePQ5E99",
+                "indices" : [ 
+                    117, 
+                    140
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/937871206765563905",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "937871206765563905",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : NumberLong(4075390113),
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/660088019253358592/ahmf2Cg__normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 99,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "4075390113",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 1,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 136,
+        "description" : "",
+        "friends_count" : 576,
+        "location" : "",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/660088019253358592/ahmf2Cg__normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/4075390113/1446233505",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "i_rohan22",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 39,
+        "name" : "ROHAN",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Fri Oct 30 13:31:01 +0000 2015",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 02:28:15 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902dafd"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "Holiday declared for us , but working on Saturday to compensate 😓😓#mumbaicyclone",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937747183180292096),
+    "favorite_count" : 1,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    66, 
+                    80
+                ],
+                "text" : "mumbaicyclone"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "937747183180292096",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 281131788,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000434682667/65cccab67a068042776bb7899e1ebfae_normal.jpeg",
+        "profile_sidebar_fill_color" : "A0C5C7",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 121,
+        "profile_sidebar_border_color" : "86A4A6",
+        "id_str" : "281131788",
+        "profile_background_color" : "709397",
+        "listed_count" : 4,
+        "is_translation_enabled" : false,
+        "utc_offset" : 19800,
+        "statuses_count" : 2414,
+        "description" : "Analyzer , psycho practicing psychology , loves to eat ,travel and explore new places and lover of happy endings!",
+        "friends_count" : 364,
+        "location" : "mumbai",
+        "profile_link_color" : "FF3300",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/378800000434682667/65cccab67a068042776bb7899e1ebfae_normal.jpeg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "screen_name" : "defydestiny",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 1418,
+        "name" : "namrata khetan",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Tue Apr 12 18:08:20 +0000 2011",
+        "contributors_enabled" : false,
+        "time_zone" : "Mumbai",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Mon Dec 04 18:15:25 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902dafe"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "Due to cyclone, I am unable to be live on @YouTube for approx 3-4 days, Even then I will be a shadow of my formers… https://t.co/duDy2GxKbp",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937734480868999168),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 10228272,
+                "indices" : [ 
+                    42, 
+                    50
+                ],
+                "id_str" : "10228272",
+                "screen_name" : "YouTube",
+                "name" : "YouTube"
+            }
+        ],
+        "hashtags" : [],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/duDy2GxKbp",
+                "indices" : [ 
+                    116, 
+                    139
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/937734480868999168",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 1,
+    "id_str" : "937734480868999168",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : NumberLong(851460738313007106),
+        "profile_background_image_url_https" : null,
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/916365885228556288/SJrYPLGI_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/doUuwYm2dI",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "https://m.Youtube.com/c/TejasDubey",
+                        "display_url" : "m.Youtube.com/c/TejasDubey"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 181,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "851460738313007106",
+        "profile_background_color" : "F5F8FA",
+        "listed_count" : 2,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 1798,
+        "description" : "Pokèmon Go \n\nNew YouTuber. 🎊\n1k++ Subs 😍 // lvl 37 📲 // Team Valor 💖//\nSubscribe and follow us to know more News on Pokemon Go in Just 2-3 minutes videos 😎",
+        "friends_count" : 13,
+        "location" : "Mumbai, India",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/916365885228556288/SJrYPLGI_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/851460738313007106/1507292168",
+        "profile_background_image_url" : null,
+        "screen_name" : "youtuber_tejas",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 6560,
+        "name" : "Tejas Dubey",
+        "notifications" : null,
+        "url" : "https://t.co/doUuwYm2dI",
+        "created_at" : "Mon Apr 10 15:43:54 +0000 2017",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Mon Dec 04 17:24:57 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902daff"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @ashishgakrey: #Cyclone likely 2hit #Mumbai\n #tommorow #MumbaiRains #MumbaiCyclone #GlobalWarming #MumbaiWeather #MumbaiWeatherPredicati…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937730851454021634),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 113977467,
+                "indices" : [ 
+                    3, 
+                    16
+                ],
+                "id_str" : "113977467",
+                "screen_name" : "ashishgakrey",
+                "name" : "Ashish Gakrey"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    18, 
+                    26
+                ],
+                "text" : "Cyclone"
+            }, 
+            {
+                "indices" : [ 
+                    39, 
+                    46
+                ],
+                "text" : "Mumbai"
+            }, 
+            {
+                "indices" : [ 
+                    48, 
+                    57
+                ],
+                "text" : "tommorow"
+            }, 
+            {
+                "indices" : [ 
+                    58, 
+                    70
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    71, 
+                    85
+                ],
+                "text" : "MumbaiCyclone"
+            }, 
+            {
+                "indices" : [ 
+                    86, 
+                    100
+                ],
+                "text" : "GlobalWarming"
+            }, 
+            {
+                "indices" : [ 
+                    101, 
+                    115
+                ],
+                "text" : "MumbaiWeather"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 2,
+    "id_str" : "937730851454021634",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "#Cyclone likely 2hit #Mumbai\n #tommorow #MumbaiRains #MumbaiCyclone #GlobalWarming #MumbaiWeather… https://t.co/feACHlgfmW",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(937685983562170369),
+        "favorite_count" : 3,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        0, 
+                        8
+                    ],
+                    "text" : "Cyclone"
+                }, 
+                {
+                    "indices" : [ 
+                        21, 
+                        28
+                    ],
+                    "text" : "Mumbai"
+                }, 
+                {
+                    "indices" : [ 
+                        30, 
+                        39
+                    ],
+                    "text" : "tommorow"
+                }, 
+                {
+                    "indices" : [ 
+                        40, 
+                        52
+                    ],
+                    "text" : "MumbaiRains"
+                }, 
+                {
+                    "indices" : [ 
+                        53, 
+                        67
+                    ],
+                    "text" : "MumbaiCyclone"
+                }, 
+                {
+                    "indices" : [ 
+                        68, 
+                        82
+                    ],
+                    "text" : "GlobalWarming"
+                }, 
+                {
+                    "indices" : [ 
+                        83, 
+                        97
+                    ],
+                    "text" : "MumbaiWeather"
+                }
+            ],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/feACHlgfmW",
+                    "indices" : [ 
+                        99, 
+                        122
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/937685983562170369",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 2,
+        "id_str" : "937685983562170369",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : true,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : 113977467,
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/911308895620038657/blD8ZtSQ_normal.jpg",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "https://t.co/OE8FejN6ib",
+                            "indices" : [ 
+                                0, 
+                                23
+                            ],
+                            "expanded_url" : "https://twitter.com/hr_shapers",
+                            "display_url" : "twitter.com/hr_shapers"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 2206,
+            "profile_sidebar_border_color" : "C0DEED",
+            "id_str" : "113977467",
+            "profile_background_color" : "C0DEED",
+            "listed_count" : 317,
+            "is_translation_enabled" : false,
+            "utc_offset" : null,
+            "statuses_count" : 17140,
+            "description" : "#HR @ Capgemini India, Founder @hr_shapers #HRShapers Founder @mthr_global @mthrchrocxo EC @nhrdmumbai PP @hriamumbai Not an alumni of XLRI TISS. TW = Own Views",
+            "friends_count" : 173,
+            "location" : "Mumbai, India",
+            "profile_link_color" : "B32400",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/911308895620038657/blD8ZtSQ_normal.jpg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/113977467/1490289109",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name" : "ashishgakrey",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 29529,
+            "name" : "Ashish Gakrey",
+            "notifications" : null,
+            "url" : "https://t.co/OE8FejN6ib",
+            "created_at" : "Sat Feb 13 17:35:18 +0000 2010",
+            "contributors_enabled" : false,
+            "time_zone" : null,
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Mon Dec 04 14:12:14 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : false,
+        "default_profile_image" : false,
+        "id" : NumberLong(3284333341),
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "000000",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/913484888057065472/UwmvyZyE_normal.jpg",
+        "profile_sidebar_fill_color" : "000000",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/nwAZhxiPx2",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "https://www.facebook.com/groups/449035205222232",
+                        "display_url" : "facebook.com/groups/4490352…"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 2356,
+        "profile_sidebar_border_color" : "000000",
+        "id_str" : "3284333341",
+        "profile_background_color" : "000000",
+        "listed_count" : 306,
+        "is_translation_enabled" : false,
+        "utc_offset" : -28800,
+        "statuses_count" : 19592,
+        "description" : "#HRShapers pioneer in #Whatsappinar #Whatsappinars \n@ashishgakrey #wadiscussion",
+        "friends_count" : 1407,
+        "location" : "Mumbai, Maharashtra",
+        "profile_link_color" : "3B94D9",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/913484888057065472/UwmvyZyE_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/3284333341/1512591033",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "hr_shapers",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 21997,
+        "name" : "hrshapers",
+        "notifications" : null,
+        "url" : "https://t.co/nwAZhxiPx2",
+        "created_at" : "Sun Jul 19 11:56:04 +0000 2015",
+        "contributors_enabled" : false,
+        "time_zone" : "Pacific Time (US & Canada)",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Mon Dec 04 17:10:31 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902db00"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @Shonaspeaks: #Cyclone to hit #Mumbai beware #tommorow !! #MumbaiRains #MumbaiCyclone #globalwarming https://t.co/Au6SWkTMIO",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937707660312395776),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 1561031268,
+                "indices" : [ 
+                    3, 
+                    15
+                ],
+                "id_str" : "1561031268",
+                "screen_name" : "Shonaspeaks",
+                "name" : "SHonali 🌠"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    17, 
+                    25
+                ],
+                "text" : "Cyclone"
+            }, 
+            {
+                "indices" : [ 
+                    33, 
+                    40
+                ],
+                "text" : "Mumbai"
+            }, 
+            {
+                "indices" : [ 
+                    48, 
+                    57
+                ],
+                "text" : "tommorow"
+            }, 
+            {
+                "indices" : [ 
+                    61, 
+                    73
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    74, 
+                    88
+                ],
+                "text" : "MumbaiCyclone"
+            }, 
+            {
+                "indices" : [ 
+                    89, 
+                    103
+                ],
+                "text" : "globalwarming"
+            }
+        ],
+        "urls" : [],
+        "media" : [ 
+            {
+                "source_user_id" : 1561031268,
+                "source_status_id_str" : "937684175183683586",
+                "expanded_url" : "https://twitter.com/Shonaspeaks/status/937684175183683586/photo/1",
+                "display_url" : "pic.twitter.com/Au6SWkTMIO",
+                "url" : "https://t.co/Au6SWkTMIO",
+                "media_url_https" : "https://pbs.twimg.com/media/DQNSwmhU8AINwfr.jpg",
+                "source_user_id_str" : "1561031268",
+                "source_status_id" : NumberLong(937684175183683586),
+                "id_str" : "937684142350725122",
+                "sizes" : {
+                    "small" : {
+                        "h" : 680,
+                        "resize" : "fit",
+                        "w" : 473
+                    },
+                    "large" : {
+                        "h" : 1024,
+                        "resize" : "fit",
+                        "w" : 713
+                    },
+                    "medium" : {
+                        "h" : 1024,
+                        "resize" : "fit",
+                        "w" : 713
+                    },
+                    "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                    }
+                },
+                "indices" : [ 
+                    104, 
+                    127
+                ],
+                "type" : "photo",
+                "id" : NumberLong(937684142350725122),
+                "media_url" : "http://pbs.twimg.com/media/DQNSwmhU8AINwfr.jpg"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 1,
+    "id_str" : "937707660312395776",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : false,
+        "text" : "#Cyclone to hit #Mumbai beware #tommorow !! #MumbaiRains #MumbaiCyclone #globalwarming https://t.co/Au6SWkTMIO",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(937684175183683586),
+        "favorite_count" : 5,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        0, 
+                        8
+                    ],
+                    "text" : "Cyclone"
+                }, 
+                {
+                    "indices" : [ 
+                        16, 
+                        23
+                    ],
+                    "text" : "Mumbai"
+                }, 
+                {
+                    "indices" : [ 
+                        31, 
+                        40
+                    ],
+                    "text" : "tommorow"
+                }, 
+                {
+                    "indices" : [ 
+                        44, 
+                        56
+                    ],
+                    "text" : "MumbaiRains"
+                }, 
+                {
+                    "indices" : [ 
+                        57, 
+                        71
+                    ],
+                    "text" : "MumbaiCyclone"
+                }, 
+                {
+                    "indices" : [ 
+                        72, 
+                        86
+                    ],
+                    "text" : "globalwarming"
+                }
+            ],
+            "urls" : [],
+            "media" : [ 
+                {
+                    "expanded_url" : "https://twitter.com/Shonaspeaks/status/937684175183683586/photo/1",
+                    "display_url" : "pic.twitter.com/Au6SWkTMIO",
+                    "url" : "https://t.co/Au6SWkTMIO",
+                    "media_url_https" : "https://pbs.twimg.com/media/DQNSwmhU8AINwfr.jpg",
+                    "id_str" : "937684142350725122",
+                    "sizes" : {
+                        "small" : {
+                            "h" : 680,
+                            "resize" : "fit",
+                            "w" : 473
+                        },
+                        "large" : {
+                            "h" : 1024,
+                            "resize" : "fit",
+                            "w" : 713
+                        },
+                        "medium" : {
+                            "h" : 1024,
+                            "resize" : "fit",
+                            "w" : 713
+                        },
+                        "thumb" : {
+                            "h" : 150,
+                            "resize" : "crop",
+                            "w" : 150
+                        }
+                    },
+                    "indices" : [ 
+                        87, 
+                        110
+                    ],
+                    "type" : "photo",
+                    "id" : NumberLong(937684142350725122),
+                    "media_url" : "http://pbs.twimg.com/media/DQNSwmhU8AINwfr.jpg"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 1,
+        "id_str" : "937684175183683586",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : true,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : 1561031268,
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/931805133696000001/npvW5F4g_normal.jpg",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "entities" : {
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 465,
+            "profile_sidebar_border_color" : "C0DEED",
+            "id_str" : "1561031268",
+            "profile_background_color" : "C0DEED",
+            "listed_count" : 0,
+            "is_translation_enabled" : false,
+            "utc_offset" : null,
+            "statuses_count" : 1080,
+            "description" : "Love yourself completely 💙\nPure Aries ♈ Moody 😄\nBollywood Lover 🎬 Free Soul 🦋\nFreedom Defines Me Best✌️",
+            "friends_count" : 362,
+            "location" : "Mumbai, India",
+            "profile_link_color" : "1DA1F2",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/931805133696000001/npvW5F4g_normal.jpg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1561031268/1412082478",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name" : "Shonaspeaks",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 932,
+            "name" : "SHonali 🌠",
+            "notifications" : null,
+            "url" : null,
+            "created_at" : "Mon Jul 01 17:30:07 +0000 2013",
+            "contributors_enabled" : false,
+            "time_zone" : null,
+            "protected" : false,
+            "default_profile" : true,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Mon Dec 04 14:05:03 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : {
+            "full_name" : "Mumbai, India",
+            "url" : "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+            "country" : "India",
+            "place_type" : "city",
+            "bounding_box" : {
+                "type" : "Polygon",
+                "coordinates" : [ 
+                    [ 
+                        [ 
+                            72.74484, 
+                            18.845343
+                        ], 
+                        [ 
+                            73.003648, 
+                            18.845343
+                        ], 
+                        [ 
+                            73.003648, 
+                            19.502937
+                        ], 
+                        [ 
+                            72.74484, 
+                            19.502937
+                        ]
+                    ]
+                ]
+            },
+            "contained_within" : [],
+            "country_code" : "IN",
+            "attributes" : {},
+            "id" : "7929cea6bd5b32bd",
+            "name" : "Mumbai"
+        },
+        "extended_entities" : {
+            "media" : [ 
+                {
+                    "expanded_url" : "https://twitter.com/Shonaspeaks/status/937684175183683586/photo/1",
+                    "display_url" : "pic.twitter.com/Au6SWkTMIO",
+                    "url" : "https://t.co/Au6SWkTMIO",
+                    "media_url_https" : "https://pbs.twimg.com/media/DQNSwmhU8AINwfr.jpg",
+                    "id_str" : "937684142350725122",
+                    "sizes" : {
+                        "small" : {
+                            "h" : 680,
+                            "resize" : "fit",
+                            "w" : 473
+                        },
+                        "large" : {
+                            "h" : 1024,
+                            "resize" : "fit",
+                            "w" : 713
+                        },
+                        "medium" : {
+                            "h" : 1024,
+                            "resize" : "fit",
+                            "w" : 713
+                        },
+                        "thumb" : {
+                            "h" : 150,
+                            "resize" : "crop",
+                            "w" : 150
+                        }
+                    },
+                    "indices" : [ 
+                        87, 
+                        110
+                    ],
+                    "type" : "photo",
+                    "id" : NumberLong(937684142350725122),
+                    "media_url" : "http://pbs.twimg.com/media/DQNSwmhU8AINwfr.jpg"
+                }
+            ]
+        },
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : NumberLong(4484936813),
+        "profile_background_image_url_https" : null,
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/937524570470301696/viNb4DmD_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 216,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "4484936813",
+        "profile_background_color" : "F5F8FA",
+        "listed_count" : 0,
+        "is_translation_enabled" : false,
+        "utc_offset" : -28800,
+        "statuses_count" : 2525,
+        "description" : "💪Hindi pesunalum Thamizhan da💪❤ Die hard fan of Sivakarthikeyan anna💟💞\nLoads of love to Sk ❤😘😘#sk  #msdian😍",
+        "friends_count" : 185,
+        "location" : "Mumbai, India",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/937524570470301696/viNb4DmD_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/4484936813/1512359295",
+        "profile_background_image_url" : null,
+        "screen_name" : "marisk1117",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 5033,
+        "name" : "💞 Sk_Mari😇",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Mon Dec 14 21:01:41 +0000 2015",
+        "contributors_enabled" : false,
+        "time_zone" : "Pacific Time (US & Canada)",
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Mon Dec 04 15:38:22 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "extended_entities" : {
+        "media" : [ 
+            {
+                "source_user_id" : 1561031268,
+                "source_status_id_str" : "937684175183683586",
+                "expanded_url" : "https://twitter.com/Shonaspeaks/status/937684175183683586/photo/1",
+                "display_url" : "pic.twitter.com/Au6SWkTMIO",
+                "url" : "https://t.co/Au6SWkTMIO",
+                "media_url_https" : "https://pbs.twimg.com/media/DQNSwmhU8AINwfr.jpg",
+                "source_user_id_str" : "1561031268",
+                "source_status_id" : NumberLong(937684175183683586),
+                "id_str" : "937684142350725122",
+                "sizes" : {
+                    "small" : {
+                        "h" : 680,
+                        "resize" : "fit",
+                        "w" : 473
+                    },
+                    "large" : {
+                        "h" : 1024,
+                        "resize" : "fit",
+                        "w" : 713
+                    },
+                    "medium" : {
+                        "h" : 1024,
+                        "resize" : "fit",
+                        "w" : 713
+                    },
+                    "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                    }
+                },
+                "indices" : [ 
+                    104, 
+                    127
+                ],
+                "type" : "photo",
+                "id" : NumberLong(937684142350725122),
+                "media_url" : "http://pbs.twimg.com/media/DQNSwmhU8AINwfr.jpg"
+            }
+        ]
+    },
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902db01"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "Continuous rains for next 2 days as Cyclone Ockhi makes it way. Everyone stay safe. #CycloneOckhi #Mumbai #MumbaiCyclone #MumbaiRains",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937703945018810368),
+    "favorite_count" : 1,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    84, 
+                    97
+                ],
+                "text" : "CycloneOckhi"
+            }, 
+            {
+                "indices" : [ 
+                    98, 
+                    105
+                ],
+                "text" : "Mumbai"
+            }, 
+            {
+                "indices" : [ 
+                    106, 
+                    120
+                ],
+                "text" : "MumbaiCyclone"
+            }, 
+            {
+                "indices" : [ 
+                    121, 
+                    133
+                ],
+                "text" : "MumbaiRains"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "937703945018810368",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 69245248,
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000104315852/ff47b080849da31d0b64623be549d4a1.jpeg",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "1E76AD",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/939449316904538113/vLzpdrna_normal.jpg",
+        "profile_sidebar_fill_color" : "BEEFF7",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 113,
+        "profile_sidebar_border_color" : "FFFFFF",
+        "id_str" : "69245248",
+        "profile_background_color" : "000000",
+        "listed_count" : 17,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 5111,
+        "description" : "Hardcore F1 fan, Tweet about anything racing with a motor & wheels on it. Engineering Design Consultant, Footballer & Motorcyclist.\nRT's are not endorsements",
+        "friends_count" : 496,
+        "location" : "Mumbai",
+        "profile_link_color" : "4123EF",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/939449316904538113/vLzpdrna_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/69245248/1511171507",
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000104315852/ff47b080849da31d0b64623be549d4a1.jpeg",
+        "screen_name" : "harjotmankoo",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 309,
+        "name" : "Harjot Singh",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Thu Aug 27 09:12:00 +0000 2009",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Mon Dec 04 15:23:36 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902db02"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "#Cyclone likely 2hit #Mumbai\n #tommorow #MumbaiRains #MumbaiCyclone #GlobalWarming #MumbaiWeather… https://t.co/feACHlgfmW",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937685983562170369),
+    "favorite_count" : 3,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    0, 
+                    8
+                ],
+                "text" : "Cyclone"
+            }, 
+            {
+                "indices" : [ 
+                    21, 
+                    28
+                ],
+                "text" : "Mumbai"
+            }, 
+            {
+                "indices" : [ 
+                    30, 
+                    39
+                ],
+                "text" : "tommorow"
+            }, 
+            {
+                "indices" : [ 
+                    40, 
+                    52
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    53, 
+                    67
+                ],
+                "text" : "MumbaiCyclone"
+            }, 
+            {
+                "indices" : [ 
+                    68, 
+                    82
+                ],
+                "text" : "GlobalWarming"
+            }, 
+            {
+                "indices" : [ 
+                    83, 
+                    97
+                ],
+                "text" : "MumbaiWeather"
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/feACHlgfmW",
+                "indices" : [ 
+                    99, 
+                    122
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/937685983562170369",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 2,
+    "id_str" : "937685983562170369",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 113977467,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/911308895620038657/blD8ZtSQ_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/OE8FejN6ib",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "https://twitter.com/hr_shapers",
+                        "display_url" : "twitter.com/hr_shapers"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 2206,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "113977467",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 317,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 17140,
+        "description" : "#HR @ Capgemini India, Founder @hr_shapers #HRShapers Founder @mthr_global @mthrchrocxo EC @nhrdmumbai PP @hriamumbai Not an alumni of XLRI TISS. TW = Own Views",
+        "friends_count" : 173,
+        "location" : "Mumbai, India",
+        "profile_link_color" : "B32400",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/911308895620038657/blD8ZtSQ_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/113977467/1490289109",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "ashishgakrey",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 29529,
+        "name" : "Ashish Gakrey",
+        "notifications" : null,
+        "url" : "https://t.co/OE8FejN6ib",
+        "created_at" : "Sat Feb 13 17:35:18 +0000 2010",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Mon Dec 04 14:12:14 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5a2c705177e9d43d9902db03"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "#Cyclone to hit #Mumbai beware #tommorow !! #MumbaiRains #MumbaiCyclone #globalwarming https://t.co/Au6SWkTMIO",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937684175183683586),
+    "favorite_count" : 5,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    0, 
+                    8
+                ],
+                "text" : "Cyclone"
+            }, 
+            {
+                "indices" : [ 
+                    16, 
+                    23
+                ],
+                "text" : "Mumbai"
+            }, 
+            {
+                "indices" : [ 
+                    31, 
+                    40
+                ],
+                "text" : "tommorow"
+            }, 
+            {
+                "indices" : [ 
+                    44, 
+                    56
+                ],
+                "text" : "MumbaiRains"
+            }, 
+            {
+                "indices" : [ 
+                    57, 
+                    71
+                ],
+                "text" : "MumbaiCyclone"
+            }, 
+            {
+                "indices" : [ 
+                    72, 
+                    86
+                ],
+                "text" : "globalwarming"
+            }
+        ],
+        "urls" : [],
+        "media" : [ 
+            {
+                "expanded_url" : "https://twitter.com/Shonaspeaks/status/937684175183683586/photo/1",
+                "display_url" : "pic.twitter.com/Au6SWkTMIO",
+                "url" : "https://t.co/Au6SWkTMIO",
+                "media_url_https" : "https://pbs.twimg.com/media/DQNSwmhU8AINwfr.jpg",
+                "id_str" : "937684142350725122",
+                "sizes" : {
+                    "small" : {
+                        "h" : 680,
+                        "resize" : "fit",
+                        "w" : 473
+                    },
+                    "large" : {
+                        "h" : 1024,
+                        "resize" : "fit",
+                        "w" : 713
+                    },
+                    "medium" : {
+                        "h" : 1024,
+                        "resize" : "fit",
+                        "w" : 713
+                    },
+                    "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                    }
+                },
+                "indices" : [ 
+                    87, 
+                    110
+                ],
+                "type" : "photo",
+                "id" : NumberLong(937684142350725122),
+                "media_url" : "http://pbs.twimg.com/media/DQNSwmhU8AINwfr.jpg"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 1,
+    "id_str" : "937684175183683586",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 1561031268,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/931805133696000001/npvW5F4g_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 465,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "1561031268",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 0,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 1080,
+        "description" : "Love yourself completely 💙\nPure Aries ♈ Moody 😄\nBollywood Lover 🎬 Free Soul 🦋\nFreedom Defines Me Best✌️",
+        "friends_count" : 362,
+        "location" : "Mumbai, India",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/931805133696000001/npvW5F4g_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1561031268/1412082478",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "Shonaspeaks",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 932,
+        "name" : "SHonali 🌠",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Mon Jul 01 17:30:07 +0000 2013",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Mon Dec 04 14:05:03 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : {
+        "full_name" : "Mumbai, India",
+        "url" : "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json",
+        "country" : "India",
+        "place_type" : "city",
+        "bounding_box" : {
+            "type" : "Polygon",
+            "coordinates" : [ 
+                [ 
+                    [ 
+                        72.74484, 
+                        18.845343
+                    ], 
+                    [ 
+                        73.003648, 
+                        18.845343
+                    ], 
+                    [ 
+                        73.003648, 
+                        19.502937
+                    ], 
+                    [ 
+                        72.74484, 
+                        19.502937
+                    ]
+                ]
+            ]
+        },
+        "contained_within" : [],
+        "country_code" : "IN",
+        "attributes" : {},
+        "id" : "7929cea6bd5b32bd",
+        "name" : "Mumbai"
+    },
+    "extended_entities" : {
+        "media" : [ 
+            {
+                "expanded_url" : "https://twitter.com/Shonaspeaks/status/937684175183683586/photo/1",
+                "display_url" : "pic.twitter.com/Au6SWkTMIO",
+                "url" : "https://t.co/Au6SWkTMIO",
+                "media_url_https" : "https://pbs.twimg.com/media/DQNSwmhU8AINwfr.jpg",
+                "id_str" : "937684142350725122",
+                "sizes" : {
+                    "small" : {
+                        "h" : 680,
+                        "resize" : "fit",
+                        "w" : 473
+                    },
+                    "large" : {
+                        "h" : 1024,
+                        "resize" : "fit",
+                        "w" : 713
+                    },
+                    "medium" : {
+                        "h" : 1024,
+                        "resize" : "fit",
+                        "w" : 713
+                    },
+                    "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                    }
+                },
+                "indices" : [ 
+                    87, 
+                    110
+                ],
+                "type" : "photo",
+                "id" : NumberLong(937684142350725122),
+                "media_url" : "http://pbs.twimg.com/media/DQNSwmhU8AINwfr.jpg"
+            }
+        ]
+    },
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}

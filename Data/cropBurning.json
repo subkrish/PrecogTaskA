@@ -1,0 +1,3662 @@
+/* 1 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e410883"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @NBTDilli: #CropBurning: #NGT pulls up Punjab Government for not taking serious efforts for the crop residue utilisation. Reports @Prach…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(939082340759941121),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 150220875,
+                "indices" : [ 
+                    3, 
+                    12
+                ],
+                "id_str" : "150220875",
+                "screen_name" : "NBTDilli",
+                "name" : "NBT Dilli"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    14, 
+                    26
+                ],
+                "text" : "CropBurning"
+            }, 
+            {
+                "indices" : [ 
+                    28, 
+                    32
+                ],
+                "text" : "NGT"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 5,
+    "id_str" : "939082340759941121",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : false,
+        "text" : "#CropBurning: #NGT pulls up Punjab Government for not taking serious efforts for the crop residue utilisation. Reports @PrachiyNBT",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(939067998974779393),
+        "favorite_count" : 6,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [ 
+                {
+                    "id" : NumberLong(3616428614),
+                    "indices" : [ 
+                        119, 
+                        130
+                    ],
+                    "id_str" : "3616428614",
+                    "screen_name" : "PrachiyNBT",
+                    "name" : "Prachi Yadav"
+                }
+            ],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        0, 
+                        12
+                    ],
+                    "text" : "CropBurning"
+                }, 
+                {
+                    "indices" : [ 
+                        14, 
+                        18
+                    ],
+                    "text" : "NGT"
+                }
+            ],
+            "urls" : []
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 5,
+        "id_str" : "939067998974779393",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : false,
+            "default_profile_image" : false,
+            "id" : 150220875,
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "000000",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/2498435510/4pynkzrpybdjentd3bfq_normal.jpeg",
+            "profile_sidebar_fill_color" : "000000",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "https://t.co/DCwHuOdVbX",
+                            "indices" : [ 
+                                0, 
+                                23
+                            ],
+                            "expanded_url" : "https://www.pscp.tv/NBTDilli",
+                            "display_url" : "pscp.tv/NBTDilli"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 32033,
+            "profile_sidebar_border_color" : "000000",
+            "id_str" : "150220875",
+            "profile_background_color" : "000000",
+            "listed_count" : 203,
+            "is_translation_enabled" : false,
+            "utc_offset" : 19800,
+            "statuses_count" : 57685,
+            "description" : "Your town, your neighborhood, your street. Latest news from #Delhi NCR. Read Navbharat Times.",
+            "friends_count" : 64,
+            "location" : "New Delhi",
+            "profile_link_color" : "3B94D9",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/2498435510/4pynkzrpybdjentd3bfq_normal.jpeg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/150220875/1457178536",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name" : "NBTDilli",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 1,
+            "name" : "NBT Dilli",
+            "notifications" : null,
+            "url" : "https://t.co/DCwHuOdVbX",
+            "created_at" : "Mon May 31 11:40:11 +0000 2010",
+            "contributors_enabled" : false,
+            "time_zone" : "New Delhi",
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "lang" : "en",
+        "created_at" : "Fri Dec 08 09:43:52 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 1590719324,
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000035617803/6ad287c40175c72b7d97b106675d100f.jpeg",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/928482640423874560/7LlPOWED_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 16507,
+        "profile_sidebar_border_color" : "FFFFFF",
+        "id_str" : "1590719324",
+        "profile_background_color" : "F00C32",
+        "listed_count" : 129,
+        "is_translation_enabled" : false,
+        "utc_offset" : 19800,
+        "statuses_count" : 217208,
+        "description" : "मानसिक रूप से विक्षिप्त हूँ।आप आभासी दुनिया में है सब फर्जी है यहां ;) हम तो शायरी कविता कॉपी-पेस्ट में वक़्त बर्बाद कर ही रहे है आप यहां क्या कर रहे है :)",
+        "friends_count" : 108,
+        "location" : "भारत",
+        "profile_link_color" : "0084B4",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/928482640423874560/7LlPOWED_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1590719324/1503483456",
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000035617803/6ad287c40175c72b7d97b106675d100f.jpeg",
+        "screen_name" : "UPSeHu",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 13773,
+        "name" : "व्लादिमीर",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Sat Jul 13 10:42:40 +0000 2013",
+        "contributors_enabled" : false,
+        "time_zone" : "New Delhi",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Fri Dec 08 10:40:52 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e410884"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @NBTDilli: #CropBurning: #NGT pulls up Punjab Government for not taking serious efforts for the crop residue utilisation. Reports @Prach…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(939078180526104576),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 150220875,
+                "indices" : [ 
+                    3, 
+                    12
+                ],
+                "id_str" : "150220875",
+                "screen_name" : "NBTDilli",
+                "name" : "NBT Dilli"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    14, 
+                    26
+                ],
+                "text" : "CropBurning"
+            }, 
+            {
+                "indices" : [ 
+                    28, 
+                    32
+                ],
+                "text" : "NGT"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 5,
+    "id_str" : "939078180526104576",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : false,
+        "text" : "#CropBurning: #NGT pulls up Punjab Government for not taking serious efforts for the crop residue utilisation. Reports @PrachiyNBT",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(939067998974779393),
+        "favorite_count" : 6,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [ 
+                {
+                    "id" : NumberLong(3616428614),
+                    "indices" : [ 
+                        119, 
+                        130
+                    ],
+                    "id_str" : "3616428614",
+                    "screen_name" : "PrachiyNBT",
+                    "name" : "Prachi Yadav"
+                }
+            ],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        0, 
+                        12
+                    ],
+                    "text" : "CropBurning"
+                }, 
+                {
+                    "indices" : [ 
+                        14, 
+                        18
+                    ],
+                    "text" : "NGT"
+                }
+            ],
+            "urls" : []
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 5,
+        "id_str" : "939067998974779393",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : false,
+            "default_profile_image" : false,
+            "id" : 150220875,
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "000000",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/2498435510/4pynkzrpybdjentd3bfq_normal.jpeg",
+            "profile_sidebar_fill_color" : "000000",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "https://t.co/DCwHuOdVbX",
+                            "indices" : [ 
+                                0, 
+                                23
+                            ],
+                            "expanded_url" : "https://www.pscp.tv/NBTDilli",
+                            "display_url" : "pscp.tv/NBTDilli"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 32033,
+            "profile_sidebar_border_color" : "000000",
+            "id_str" : "150220875",
+            "profile_background_color" : "000000",
+            "listed_count" : 203,
+            "is_translation_enabled" : false,
+            "utc_offset" : 19800,
+            "statuses_count" : 57685,
+            "description" : "Your town, your neighborhood, your street. Latest news from #Delhi NCR. Read Navbharat Times.",
+            "friends_count" : 64,
+            "location" : "New Delhi",
+            "profile_link_color" : "3B94D9",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/2498435510/4pynkzrpybdjentd3bfq_normal.jpeg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/150220875/1457178536",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name" : "NBTDilli",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 1,
+            "name" : "NBT Dilli",
+            "notifications" : null,
+            "url" : "https://t.co/DCwHuOdVbX",
+            "created_at" : "Mon May 31 11:40:11 +0000 2010",
+            "contributors_enabled" : false,
+            "time_zone" : "New Delhi",
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "lang" : "en",
+        "created_at" : "Fri Dec 08 09:43:52 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : NumberLong(759801939123056640),
+        "profile_background_image_url_https" : null,
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/937719500429959168/nky03L9o_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 41,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "759801939123056640",
+        "profile_background_color" : "F5F8FA",
+        "listed_count" : 0,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 4557,
+        "description" : "$$$$$$$$$$$$$",
+        "friends_count" : 8,
+        "location" : "",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/937719500429959168/nky03L9o_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/759801939123056640/1509785710",
+        "profile_background_image_url" : null,
+        "screen_name" : "SANDEEPSKYSKY",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 3666,
+        "name" : "SANDEEP YADAV",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Sun Jul 31 17:24:33 +0000 2016",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Fri Dec 08 10:24:20 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e410885"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @NBTDilli: #CropBurning: #NGT pulls up Punjab Government for not taking serious efforts for the crop residue utilisation. Reports @Prach…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(939073830433185793),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 150220875,
+                "indices" : [ 
+                    3, 
+                    12
+                ],
+                "id_str" : "150220875",
+                "screen_name" : "NBTDilli",
+                "name" : "NBT Dilli"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    14, 
+                    26
+                ],
+                "text" : "CropBurning"
+            }, 
+            {
+                "indices" : [ 
+                    28, 
+                    32
+                ],
+                "text" : "NGT"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 5,
+    "id_str" : "939073830433185793",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : false,
+        "text" : "#CropBurning: #NGT pulls up Punjab Government for not taking serious efforts for the crop residue utilisation. Reports @PrachiyNBT",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(939067998974779393),
+        "favorite_count" : 6,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [ 
+                {
+                    "id" : NumberLong(3616428614),
+                    "indices" : [ 
+                        119, 
+                        130
+                    ],
+                    "id_str" : "3616428614",
+                    "screen_name" : "PrachiyNBT",
+                    "name" : "Prachi Yadav"
+                }
+            ],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        0, 
+                        12
+                    ],
+                    "text" : "CropBurning"
+                }, 
+                {
+                    "indices" : [ 
+                        14, 
+                        18
+                    ],
+                    "text" : "NGT"
+                }
+            ],
+            "urls" : []
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 5,
+        "id_str" : "939067998974779393",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : false,
+            "default_profile_image" : false,
+            "id" : 150220875,
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "000000",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/2498435510/4pynkzrpybdjentd3bfq_normal.jpeg",
+            "profile_sidebar_fill_color" : "000000",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "https://t.co/DCwHuOdVbX",
+                            "indices" : [ 
+                                0, 
+                                23
+                            ],
+                            "expanded_url" : "https://www.pscp.tv/NBTDilli",
+                            "display_url" : "pscp.tv/NBTDilli"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 32033,
+            "profile_sidebar_border_color" : "000000",
+            "id_str" : "150220875",
+            "profile_background_color" : "000000",
+            "listed_count" : 203,
+            "is_translation_enabled" : false,
+            "utc_offset" : 19800,
+            "statuses_count" : 57685,
+            "description" : "Your town, your neighborhood, your street. Latest news from #Delhi NCR. Read Navbharat Times.",
+            "friends_count" : 64,
+            "location" : "New Delhi",
+            "profile_link_color" : "3B94D9",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/2498435510/4pynkzrpybdjentd3bfq_normal.jpeg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/150220875/1457178536",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name" : "NBTDilli",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 1,
+            "name" : "NBT Dilli",
+            "notifications" : null,
+            "url" : "https://t.co/DCwHuOdVbX",
+            "created_at" : "Mon May 31 11:40:11 +0000 2010",
+            "contributors_enabled" : false,
+            "time_zone" : "New Delhi",
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "lang" : "en",
+        "created_at" : "Fri Dec 08 09:43:52 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 132473139,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/921374290485813248/OCPDH2O__normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/JnHt6GHUTB",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "http://india.com",
+                        "display_url" : "india.com"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 590,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "132473139",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 20,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 65254,
+        "description" : "India will change/Political thinker/activist by thinking # Fan#Dhoni/Dravid/ Obama/ Raghuram Rajan# INDIA, Bhakts keep away",
+        "friends_count" : 1399,
+        "location" : "India",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/921374290485813248/OCPDH2O__normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/132473139/1511887362",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "parambeer",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 98970,
+        "name" : "NegiP",
+        "notifications" : null,
+        "url" : "https://t.co/JnHt6GHUTB",
+        "created_at" : "Tue Apr 13 09:59:03 +0000 2010",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Fri Dec 08 10:07:02 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e410886"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @NBTDilli: #CropBurning: #NGT pulls up Punjab Government for not taking serious efforts for the crop residue utilisation. Reports @Prach…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(939068622667890689),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 150220875,
+                "indices" : [ 
+                    3, 
+                    12
+                ],
+                "id_str" : "150220875",
+                "screen_name" : "NBTDilli",
+                "name" : "NBT Dilli"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    14, 
+                    26
+                ],
+                "text" : "CropBurning"
+            }, 
+            {
+                "indices" : [ 
+                    28, 
+                    32
+                ],
+                "text" : "NGT"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 5,
+    "id_str" : "939068622667890689",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : false,
+        "text" : "#CropBurning: #NGT pulls up Punjab Government for not taking serious efforts for the crop residue utilisation. Reports @PrachiyNBT",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(939067998974779393),
+        "favorite_count" : 6,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [ 
+                {
+                    "id" : NumberLong(3616428614),
+                    "indices" : [ 
+                        119, 
+                        130
+                    ],
+                    "id_str" : "3616428614",
+                    "screen_name" : "PrachiyNBT",
+                    "name" : "Prachi Yadav"
+                }
+            ],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        0, 
+                        12
+                    ],
+                    "text" : "CropBurning"
+                }, 
+                {
+                    "indices" : [ 
+                        14, 
+                        18
+                    ],
+                    "text" : "NGT"
+                }
+            ],
+            "urls" : []
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 5,
+        "id_str" : "939067998974779393",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : false,
+            "default_profile_image" : false,
+            "id" : 150220875,
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "000000",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/2498435510/4pynkzrpybdjentd3bfq_normal.jpeg",
+            "profile_sidebar_fill_color" : "000000",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "https://t.co/DCwHuOdVbX",
+                            "indices" : [ 
+                                0, 
+                                23
+                            ],
+                            "expanded_url" : "https://www.pscp.tv/NBTDilli",
+                            "display_url" : "pscp.tv/NBTDilli"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 32033,
+            "profile_sidebar_border_color" : "000000",
+            "id_str" : "150220875",
+            "profile_background_color" : "000000",
+            "listed_count" : 203,
+            "is_translation_enabled" : false,
+            "utc_offset" : 19800,
+            "statuses_count" : 57685,
+            "description" : "Your town, your neighborhood, your street. Latest news from #Delhi NCR. Read Navbharat Times.",
+            "friends_count" : 64,
+            "location" : "New Delhi",
+            "profile_link_color" : "3B94D9",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/2498435510/4pynkzrpybdjentd3bfq_normal.jpeg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/150220875/1457178536",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name" : "NBTDilli",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 1,
+            "name" : "NBT Dilli",
+            "notifications" : null,
+            "url" : "https://t.co/DCwHuOdVbX",
+            "created_at" : "Mon May 31 11:40:11 +0000 2010",
+            "contributors_enabled" : false,
+            "time_zone" : "New Delhi",
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "lang" : "en",
+        "created_at" : "Fri Dec 08 09:43:52 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : NumberLong(2289643392),
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/832474967371509760/bdTkj20D_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 286,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "2289643392",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 32,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 74972,
+        "description" : "",
+        "friends_count" : 260,
+        "location" : "",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/832474967371509760/bdTkj20D_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "gw20900",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 28,
+        "name" : "Gajanan",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Mon Jan 13 12:57:15 +0000 2014",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Fri Dec 08 09:46:21 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e410887"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "#CropBurning: #NGT pulls up Punjab Government for not taking serious efforts for the crop residue utilisation. Reports @PrachiyNBT",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(939067998974779393),
+    "favorite_count" : 6,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : NumberLong(3616428614),
+                "indices" : [ 
+                    119, 
+                    130
+                ],
+                "id_str" : "3616428614",
+                "screen_name" : "PrachiyNBT",
+                "name" : "Prachi Yadav"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    0, 
+                    12
+                ],
+                "text" : "CropBurning"
+            }, 
+            {
+                "indices" : [ 
+                    14, 
+                    18
+                ],
+                "text" : "NGT"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 5,
+    "id_str" : "939067998974779393",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : false,
+        "default_profile_image" : false,
+        "id" : 150220875,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "000000",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/2498435510/4pynkzrpybdjentd3bfq_normal.jpeg",
+        "profile_sidebar_fill_color" : "000000",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/DCwHuOdVbX",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "https://www.pscp.tv/NBTDilli",
+                        "display_url" : "pscp.tv/NBTDilli"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 32033,
+        "profile_sidebar_border_color" : "000000",
+        "id_str" : "150220875",
+        "profile_background_color" : "000000",
+        "listed_count" : 203,
+        "is_translation_enabled" : false,
+        "utc_offset" : 19800,
+        "statuses_count" : 57685,
+        "description" : "Your town, your neighborhood, your street. Latest news from #Delhi NCR. Read Navbharat Times.",
+        "friends_count" : 64,
+        "location" : "New Delhi",
+        "profile_link_color" : "3B94D9",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/2498435510/4pynkzrpybdjentd3bfq_normal.jpeg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/150220875/1457178536",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "NBTDilli",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 1,
+        "name" : "NBT Dilli",
+        "notifications" : null,
+        "url" : "https://t.co/DCwHuOdVbX",
+        "created_at" : "Mon May 31 11:40:11 +0000 2010",
+        "contributors_enabled" : false,
+        "time_zone" : "New Delhi",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Fri Dec 08 09:43:52 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e410888"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @jksmith34: 2016 and 2017 juxtaposition of #cropburning of stubble in a nutshell...\n@cleanairasia @vikranttongad @BhushanTuladhar @CCACo…",
+    "is_quote_status" : true,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(938477677828362240),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 36793140,
+                "indices" : [ 
+                    3, 
+                    13
+                ],
+                "id_str" : "36793140",
+                "screen_name" : "jksmith34",
+                "name" : "Jeffery K Smith"
+            }, 
+            {
+                "id" : 65597039,
+                "indices" : [ 
+                    87, 
+                    100
+                ],
+                "id_str" : "65597039",
+                "screen_name" : "cleanairasia",
+                "name" : "Clean Air Asia"
+            }, 
+            {
+                "id" : NumberLong(821346658428387328),
+                "indices" : [ 
+                    101, 
+                    115
+                ],
+                "id_str" : "821346658428387328",
+                "screen_name" : "vikranttongad",
+                "name" : "Vikrant Tongad"
+            }, 
+            {
+                "id" : 190585630,
+                "indices" : [ 
+                    116, 
+                    132
+                ],
+                "id_str" : "190585630",
+                "screen_name" : "BhushanTuladhar",
+                "name" : "Bhushan Tuladhar"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    46, 
+                    58
+                ],
+                "text" : "cropburning"
+            }
+        ],
+        "urls" : []
+    },
+    "quoted_status_id" : NumberLong(937497579499216897),
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 1,
+    "id_str" : "938477677828362240",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "2016 and 2017 juxtaposition of #cropburning of stubble in a nutshell...\n@cleanairasia @vikranttongad… https://t.co/SfDKO5WoTx",
+        "is_quote_status" : true,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(938457076849881089),
+        "favorite_count" : 2,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [ 
+                {
+                    "id" : 65597039,
+                    "indices" : [ 
+                        72, 
+                        85
+                    ],
+                    "id_str" : "65597039",
+                    "screen_name" : "cleanairasia",
+                    "name" : "Clean Air Asia"
+                }, 
+                {
+                    "id" : NumberLong(821346658428387328),
+                    "indices" : [ 
+                        86, 
+                        100
+                    ],
+                    "id_str" : "821346658428387328",
+                    "screen_name" : "vikranttongad",
+                    "name" : "Vikrant Tongad"
+                }
+            ],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        31, 
+                        43
+                    ],
+                    "text" : "cropburning"
+                }
+            ],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/SfDKO5WoTx",
+                    "indices" : [ 
+                        102, 
+                        125
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/938457076849881089",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "quoted_status_id" : NumberLong(937497579499216897),
+        "retweeted" : false,
+        "coordinates" : null,
+        "quoted_status" : {
+            "contributors" : null,
+            "truncated" : true,
+            "text" : "Significant diff bet'n 2016/2017 agr fire season over NW India, so is the PM2.5 in New Delhi. In addition to crop f… https://t.co/M4wRjjz98F",
+            "is_quote_status" : false,
+            "in_reply_to_status_id" : null,
+            "id" : NumberLong(937497579499216897),
+            "favorite_count" : 14,
+            "entities" : {
+                "symbols" : [],
+                "user_mentions" : [],
+                "hashtags" : [],
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/M4wRjjz98F",
+                        "indices" : [ 
+                            117, 
+                            140
+                        ],
+                        "expanded_url" : "https://twitter.com/i/web/status/937497579499216897",
+                        "display_url" : "twitter.com/i/web/status/9…"
+                    }
+                ]
+            },
+            "retweeted" : false,
+            "coordinates" : null,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_user_id" : null,
+            "retweet_count" : 17,
+            "id_str" : "937497579499216897",
+            "favorited" : false,
+            "user" : {
+                "follow_request_sent" : null,
+                "has_extended_profile" : false,
+                "profile_use_background_image" : false,
+                "default_profile_image" : false,
+                "id" : NumberLong(795971334962606080),
+                "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "verified" : false,
+                "translator_type" : "none",
+                "profile_text_color" : "000000",
+                "profile_image_url_https" : "https://pbs.twimg.com/profile_images/795989511469666304/9OZ8-ohB_normal.jpg",
+                "profile_sidebar_fill_color" : "000000",
+                "entities" : {
+                    "url" : {
+                        "urls" : [ 
+                            {
+                                "url" : "https://t.co/lpPZ8a6pC0",
+                                "indices" : [ 
+                                    0, 
+                                    23
+                                ],
+                                "expanded_url" : "http://science.gsfc.nasa.gov/sed/bio/hiren.t.jethva",
+                                "display_url" : "science.gsfc.nasa.gov/sed/bio/hiren.…"
+                            }
+                        ]
+                    },
+                    "description" : {
+                        "urls" : []
+                    }
+                },
+                "followers_count" : 168,
+                "profile_sidebar_border_color" : "000000",
+                "id_str" : "795971334962606080",
+                "profile_background_color" : "000000",
+                "listed_count" : 7,
+                "is_translation_enabled" : false,
+                "utc_offset" : null,
+                "statuses_count" : 326,
+                "description" : "Aerosol remote sensing scientist at USRA/NASA Goddard \n\nTweets are my own, RT aren't endorsements",
+                "friends_count" : 69,
+                "location" : "Greenbelt, MD",
+                "profile_link_color" : "1B95E0",
+                "profile_image_url" : "http://pbs.twimg.com/profile_images/795989511469666304/9OZ8-ohB_normal.jpg",
+                "following" : null,
+                "geo_enabled" : false,
+                "profile_banner_url" : "https://pbs.twimg.com/profile_banners/795971334962606080/1480823663",
+                "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "screen_name" : "hjethva05",
+                "lang" : "en",
+                "profile_background_tile" : false,
+                "favourites_count" : 105,
+                "name" : "Hiren Jethva",
+                "notifications" : null,
+                "url" : "https://t.co/lpPZ8a6pC0",
+                "created_at" : "Tue Nov 08 12:48:49 +0000 2016",
+                "contributors_enabled" : false,
+                "time_zone" : null,
+                "protected" : false,
+                "default_profile" : false,
+                "is_translator" : false
+            },
+            "geo" : null,
+            "in_reply_to_user_id_str" : null,
+            "possibly_sensitive" : false,
+            "lang" : "en",
+            "created_at" : "Mon Dec 04 01:43:35 +0000 2017",
+            "in_reply_to_status_id_str" : null,
+            "place" : null,
+            "metadata" : {
+                "iso_language_code" : "en",
+                "result_type" : "recent"
+            }
+        },
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 1,
+        "id_str" : "938457076849881089",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : 36793140,
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/10968218/2414194397_9a484b1d75.jpg",
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/823508215417765888/OCMktiQa_normal.jpg",
+            "profile_sidebar_fill_color" : "DDFFCC",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "https://t.co/inIxeyyFm2",
+                            "indices" : [ 
+                                0, 
+                                23
+                            ],
+                            "expanded_url" : "http://about.environmentalhealthmatters.com/",
+                            "display_url" : "about.environmentalhealthmatters.com"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 132,
+            "profile_sidebar_border_color" : "FFFFFF",
+            "id_str" : "36793140",
+            "profile_background_color" : "9AE4E8",
+            "listed_count" : 4,
+            "is_translation_enabled" : false,
+            "utc_offset" : 3600,
+            "statuses_count" : 776,
+            "description" : "Write about Air Pollution for WHO. Monitoring air quality & CleanTech since my daughter was hospitalized for respiratory distress in 2008. Tweets are personal",
+            "friends_count" : 451,
+            "location" : "Geneva, Switzerland",
+            "profile_link_color" : "0084B4",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/823508215417765888/OCMktiQa_normal.jpg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/36793140/1491029841",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/10968218/2414194397_9a484b1d75.jpg",
+            "screen_name" : "jksmith34",
+            "lang" : "en",
+            "profile_background_tile" : true,
+            "favourites_count" : 425,
+            "name" : "Jeffery K Smith",
+            "notifications" : null,
+            "url" : "https://t.co/inIxeyyFm2",
+            "created_at" : "Thu Apr 30 22:28:09 +0000 2009",
+            "contributors_enabled" : false,
+            "time_zone" : "Amsterdam",
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Wed Dec 06 17:16:17 +0000 2017",
+        "quoted_status_id_str" : "937497579499216897",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : false,
+        "default_profile_image" : false,
+        "id" : NumberLong(815344758562418691),
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "000000",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/919915289290182656/IZEgjNsf_normal.jpg",
+        "profile_sidebar_fill_color" : "000000",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/6hE8BglC0F",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "https://airsouthasia.org",
+                        "display_url" : "airsouthasia.org"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 382,
+        "profile_sidebar_border_color" : "000000",
+        "id_str" : "815344758562418691",
+        "profile_background_color" : "000000",
+        "listed_count" : 12,
+        "is_translation_enabled" : false,
+        "utc_offset" : -21600,
+        "statuses_count" : 1729,
+        "description" : "Everything about air quality in South Asia, curated by @pallavipnt; founded by @pallavipnt and @AnobhaG",
+        "friends_count" : 168,
+        "location" : "",
+        "profile_link_color" : "7FDBB6",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/919915289290182656/IZEgjNsf_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/815344758562418691/1492861920",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "airsouthasia",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 291,
+        "name" : "Air South Asia",
+        "notifications" : null,
+        "url" : "https://t.co/6hE8BglC0F",
+        "created_at" : "Sat Dec 31 23:51:53 +0000 2016",
+        "contributors_enabled" : false,
+        "time_zone" : "Central Time (US & Canada)",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Wed Dec 06 18:38:09 +0000 2017",
+    "quoted_status_id_str" : "937497579499216897",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e410889"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "2016 and 2017 juxtaposition of #cropburning of stubble in a nutshell...\n@cleanairasia @vikranttongad… https://t.co/SfDKO5WoTx",
+    "is_quote_status" : true,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(938457076849881089),
+    "favorite_count" : 2,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 65597039,
+                "indices" : [ 
+                    72, 
+                    85
+                ],
+                "id_str" : "65597039",
+                "screen_name" : "cleanairasia",
+                "name" : "Clean Air Asia"
+            }, 
+            {
+                "id" : NumberLong(821346658428387328),
+                "indices" : [ 
+                    86, 
+                    100
+                ],
+                "id_str" : "821346658428387328",
+                "screen_name" : "vikranttongad",
+                "name" : "Vikrant Tongad"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    31, 
+                    43
+                ],
+                "text" : "cropburning"
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/SfDKO5WoTx",
+                "indices" : [ 
+                    102, 
+                    125
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/938457076849881089",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "quoted_status_id" : NumberLong(937497579499216897),
+    "retweeted" : false,
+    "coordinates" : null,
+    "quoted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "Significant diff bet'n 2016/2017 agr fire season over NW India, so is the PM2.5 in New Delhi. In addition to crop f… https://t.co/M4wRjjz98F",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(937497579499216897),
+        "favorite_count" : 14,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [],
+            "hashtags" : [],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/M4wRjjz98F",
+                    "indices" : [ 
+                        117, 
+                        140
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/937497579499216897",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 17,
+        "id_str" : "937497579499216897",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : false,
+            "default_profile_image" : false,
+            "id" : NumberLong(795971334962606080),
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "000000",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/795989511469666304/9OZ8-ohB_normal.jpg",
+            "profile_sidebar_fill_color" : "000000",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "https://t.co/lpPZ8a6pC0",
+                            "indices" : [ 
+                                0, 
+                                23
+                            ],
+                            "expanded_url" : "http://science.gsfc.nasa.gov/sed/bio/hiren.t.jethva",
+                            "display_url" : "science.gsfc.nasa.gov/sed/bio/hiren.…"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 168,
+            "profile_sidebar_border_color" : "000000",
+            "id_str" : "795971334962606080",
+            "profile_background_color" : "000000",
+            "listed_count" : 7,
+            "is_translation_enabled" : false,
+            "utc_offset" : null,
+            "statuses_count" : 326,
+            "description" : "Aerosol remote sensing scientist at USRA/NASA Goddard \n\nTweets are my own, RT aren't endorsements",
+            "friends_count" : 69,
+            "location" : "Greenbelt, MD",
+            "profile_link_color" : "1B95E0",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/795989511469666304/9OZ8-ohB_normal.jpg",
+            "following" : null,
+            "geo_enabled" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/795971334962606080/1480823663",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name" : "hjethva05",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 105,
+            "name" : "Hiren Jethva",
+            "notifications" : null,
+            "url" : "https://t.co/lpPZ8a6pC0",
+            "created_at" : "Tue Nov 08 12:48:49 +0000 2016",
+            "contributors_enabled" : false,
+            "time_zone" : null,
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Mon Dec 04 01:43:35 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 1,
+    "id_str" : "938457076849881089",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 36793140,
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/10968218/2414194397_9a484b1d75.jpg",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/823508215417765888/OCMktiQa_normal.jpg",
+        "profile_sidebar_fill_color" : "DDFFCC",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/inIxeyyFm2",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "http://about.environmentalhealthmatters.com/",
+                        "display_url" : "about.environmentalhealthmatters.com"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 132,
+        "profile_sidebar_border_color" : "FFFFFF",
+        "id_str" : "36793140",
+        "profile_background_color" : "9AE4E8",
+        "listed_count" : 4,
+        "is_translation_enabled" : false,
+        "utc_offset" : 3600,
+        "statuses_count" : 776,
+        "description" : "Write about Air Pollution for WHO. Monitoring air quality & CleanTech since my daughter was hospitalized for respiratory distress in 2008. Tweets are personal",
+        "friends_count" : 451,
+        "location" : "Geneva, Switzerland",
+        "profile_link_color" : "0084B4",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/823508215417765888/OCMktiQa_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/36793140/1491029841",
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/10968218/2414194397_9a484b1d75.jpg",
+        "screen_name" : "jksmith34",
+        "lang" : "en",
+        "profile_background_tile" : true,
+        "favourites_count" : 425,
+        "name" : "Jeffery K Smith",
+        "notifications" : null,
+        "url" : "https://t.co/inIxeyyFm2",
+        "created_at" : "Thu Apr 30 22:28:09 +0000 2009",
+        "contributors_enabled" : false,
+        "time_zone" : "Amsterdam",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Wed Dec 06 17:16:17 +0000 2017",
+    "quoted_status_id_str" : "937497579499216897",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e41088a"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "Intellectual terrorists both in media other fields wer busy blaming Diwali, sharia Supreme Court banned Hindu festi… https://t.co/KlslE8c3oJ",
+    "is_quote_status" : true,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(938256079904849920),
+    "favorite_count" : 4,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/KlslE8c3oJ",
+                "indices" : [ 
+                    117, 
+                    140
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/938256079904849920",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "quoted_status_id" : NumberLong(938245699581362176),
+    "retweeted" : false,
+    "coordinates" : null,
+    "quoted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "\"Notices have been sent to other states' police to prosecute a particular vehicle violating traffic norms, but no r… https://t.co/QhNWGC3vFs",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(938245699581362176),
+        "favorite_count" : 16,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [],
+            "hashtags" : [],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/QhNWGC3vFs",
+                    "indices" : [ 
+                        117, 
+                        140
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/938245699581362176",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 2,
+        "id_str" : "938245699581362176",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : 19897138,
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified" : true,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/787569535880531968/3FtQQHyA_normal.jpg",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "http://t.co/ICyUpGKpTg",
+                            "indices" : [ 
+                                0, 
+                                22
+                            ],
+                            "expanded_url" : "http://indiatoday.in",
+                            "display_url" : "indiatoday.in"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : [ 
+                        {
+                            "url" : "https://t.co/PVrW5AjdTH",
+                            "indices" : [ 
+                                110, 
+                                133
+                            ],
+                            "expanded_url" : "https://goo.gl/YSzDFL",
+                            "display_url" : "goo.gl/YSzDFL"
+                        }
+                    ]
+                }
+            },
+            "followers_count" : 4591028,
+            "profile_sidebar_border_color" : "C0DEED",
+            "id_str" : "19897138",
+            "profile_background_color" : "C0DEED",
+            "listed_count" : 4843,
+            "is_translation_enabled" : false,
+            "utc_offset" : 19800,
+            "statuses_count" : 491440,
+            "description" : "Brings you news breaks: Exclusive political, entertainment, sports insight, unbiased-nonaligned Download App: https://t.co/PVrW5AjdTH",
+            "friends_count" : 250,
+            "location" : "India",
+            "profile_link_color" : "1DA1F2",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/787569535880531968/3FtQQHyA_normal.jpg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/19897138/1512714063",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name" : "IndiaToday",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 4342,
+            "name" : "India Today",
+            "notifications" : null,
+            "url" : "http://t.co/ICyUpGKpTg",
+            "created_at" : "Mon Feb 02 07:21:54 +0000 2009",
+            "contributors_enabled" : false,
+            "time_zone" : "New Delhi",
+            "protected" : false,
+            "default_profile" : true,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Wed Dec 06 03:16:21 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 3,
+    "id_str" : "938256079904849920",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 426736627,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/925215318649143296/Z2M_9Fj6_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 2689,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "426736627",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 35,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 69393,
+        "description" : "",
+        "friends_count" : 469,
+        "location" : "",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/925215318649143296/Z2M_9Fj6_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/426736627/1509740133",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "ushamohan1",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 64607,
+        "name" : "usha",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Fri Dec 02 16:39:55 +0000 2011",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Wed Dec 06 03:57:36 +0000 2017",
+    "quoted_status_id_str" : "938245699581362176",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e41088b"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "Well the #crackerban isn't seem to be helping at all !!! Can we try and look at the primary cause #cropburning now… https://t.co/Zs5vNpw6Li",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937889168625041410),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    9, 
+                    20
+                ],
+                "text" : "crackerban"
+            }, 
+            {
+                "indices" : [ 
+                    98, 
+                    110
+                ],
+                "text" : "cropburning"
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/Zs5vNpw6Li",
+                "indices" : [ 
+                    116, 
+                    139
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/937889168625041410",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "937889168625041410",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : NumberLong(3038888066),
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/892332858643070977/JV1zbnPr_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 67,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "3038888066",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 9,
+        "is_translation_enabled" : false,
+        "utc_offset" : -28800,
+        "statuses_count" : 1506,
+        "description" : "#HR | Retail & IT Sectors | #XLRI, 2003-2005, #PMIR | St Joseph`s |",
+        "friends_count" : 136,
+        "location" : "India",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/892332858643070977/JV1zbnPr_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/3038888066/1501585656",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "Anita_Pratap",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 1395,
+        "name" : "Anita Pratap",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Tue Feb 24 05:20:03 +0000 2015",
+        "contributors_enabled" : false,
+        "time_zone" : "Pacific Time (US & Canada)",
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Tue Dec 05 03:39:37 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e41088c"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "@sagarikaghose ,darling still Diwali is being celebrated  in Delhi ?Are you not worried about lungs or Supreme hypo… https://t.co/McKgaHMWGE",
+    "is_quote_status" : true,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(937451261372153856),
+    "favorite_count" : 2,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : 56312411,
+                "indices" : [ 
+                    0, 
+                    14
+                ],
+                "id_str" : "56312411",
+                "screen_name" : "sagarikaghose",
+                "name" : "Sagarika Ghose"
+            }
+        ],
+        "hashtags" : [],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/McKgaHMWGE",
+                "indices" : [ 
+                    117, 
+                    140
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/937451261372153856",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "quoted_status_id" : NumberLong(937237839162384384),
+    "retweeted" : false,
+    "coordinates" : null,
+    "quoted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "Some Sri Lankan players were seen playing wearing masks in the third test in #Delhi's Feroze Shah Kotla ground. Pla… https://t.co/k4DuC9hcsH",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : NumberLong(937221343216414720),
+        "id" : NumberLong(937237839162384384),
+        "favorite_count" : 42,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        77, 
+                        83
+                    ],
+                    "text" : "Delhi"
+                }
+            ],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/k4DuC9hcsH",
+                    "indices" : [ 
+                        117, 
+                        140
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/937237839162384384",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_screen_name" : "ANI",
+        "in_reply_to_user_id" : 355989081,
+        "retweet_count" : 17,
+        "id_str" : "937237839162384384",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : 355989081,
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "verified" : true,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1497864299/ani_mic_logo_normal.jpg",
+            "profile_sidebar_fill_color" : "EFEFEF",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "http://t.co/sFNGg4bASa",
+                            "indices" : [ 
+                                0, 
+                                22
+                            ],
+                            "expanded_url" : "http://www.aninews.in",
+                            "display_url" : "aninews.in"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : [ 
+                        {
+                            "url" : "https://t.co/8qaMJ9LH",
+                            "indices" : [ 
+                                124, 
+                                145
+                            ],
+                            "expanded_url" : "https://www.facebook.com/ANINEWS.IN",
+                            "display_url" : "facebook.com/ANINEWS.IN"
+                        }
+                    ]
+                }
+            },
+            "followers_count" : 2239573,
+            "profile_sidebar_border_color" : "EEEEEE",
+            "id_str" : "355989081",
+            "profile_background_color" : "131516",
+            "listed_count" : 2902,
+            "is_translation_enabled" : false,
+            "utc_offset" : 19800,
+            "statuses_count" : 253377,
+            "description" : "Asian News International.Multi-media news agency,content for information platforms:TV,Internet,broadband,newspapers,mobiles https://t.co/8qaMJ9LH",
+            "friends_count" : 0,
+            "location" : "India",
+            "profile_link_color" : "009999",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/1497864299/ani_mic_logo_normal.jpg",
+            "following" : null,
+            "geo_enabled" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/355989081/1510646010",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "screen_name" : "ANI",
+            "lang" : "en",
+            "profile_background_tile" : true,
+            "favourites_count" : 0,
+            "name" : "ANI",
+            "notifications" : null,
+            "url" : "http://t.co/sFNGg4bASa",
+            "created_at" : "Tue Aug 16 05:23:41 +0000 2011",
+            "contributors_enabled" : false,
+            "time_zone" : "New Delhi",
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : "355989081",
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Sun Dec 03 08:31:28 +0000 2017",
+        "in_reply_to_status_id_str" : "937221343216414720",
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_screen_name" : "sagarikaghose",
+    "in_reply_to_user_id" : 56312411,
+    "retweet_count" : 1,
+    "id_str" : "937451261372153856",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 426736627,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/925215318649143296/Z2M_9Fj6_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 2689,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "426736627",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 35,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 69393,
+        "description" : "",
+        "friends_count" : 469,
+        "location" : "",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/925215318649143296/Z2M_9Fj6_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/426736627/1509740133",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "ushamohan1",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 64607,
+        "name" : "usha",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Fri Dec 02 16:39:55 +0000 2011",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : "56312411",
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Sun Dec 03 22:39:32 +0000 2017",
+    "quoted_status_id_str" : "937237839162384384",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e41088d"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "MNREGA wages for labour no solution to stubble burning as labour in short supply. Machine based solution needed- Go… https://t.co/5hkUGYmEqn",
+    "is_quote_status" : true,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(936548610342141952),
+    "favorite_count" : 2,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/5hkUGYmEqn",
+                "indices" : [ 
+                    117, 
+                    140
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/936548610342141952",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "quoted_status_id" : NumberLong(936545410868326400),
+    "retweeted" : false,
+    "coordinates" : null,
+    "quoted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "MGNREGA won’t put out crop stubble burning, says govt panel; reports @anubhutivishnoi \n\nRead:… https://t.co/iGvbVfbAqP",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(936545410868326400),
+        "favorite_count" : 9,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [ 
+                {
+                    "id" : 149884554,
+                    "indices" : [ 
+                        69, 
+                        85
+                    ],
+                    "id_str" : "149884554",
+                    "screen_name" : "anubhutivishnoi",
+                    "name" : "Anubhuti Vishnoi"
+                }
+            ],
+            "hashtags" : [],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/iGvbVfbAqP",
+                    "indices" : [ 
+                        95, 
+                        118
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/936545410868326400",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 11,
+        "id_str" : "936545410868326400",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : false,
+            "default_profile_image" : false,
+            "id" : NumberLong(2930935453),
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "verified" : true,
+            "translator_type" : "none",
+            "profile_text_color" : "000000",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/904730267264311296/NhRrfuyU_normal.jpg",
+            "profile_sidebar_fill_color" : "000000",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "https://t.co/M986zC627b",
+                            "indices" : [ 
+                                0, 
+                                23
+                            ],
+                            "expanded_url" : "https://theprint.in",
+                            "display_url" : "theprint.in"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 27812,
+            "profile_sidebar_border_color" : "000000",
+            "id_str" : "2930935453",
+            "profile_background_color" : "000000",
+            "listed_count" : 206,
+            "is_translation_enabled" : false,
+            "utc_offset" : 19800,
+            "statuses_count" : 6779,
+            "description" : "Substance of print, speed of digital.",
+            "friends_count" : 200,
+            "location" : "New Delhi, India",
+            "profile_link_color" : "89C9FA",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/904730267264311296/NhRrfuyU_normal.jpg",
+            "following" : null,
+            "geo_enabled" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2930935453/1501505572",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "screen_name" : "ThePrintIndia",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 158,
+            "name" : "ThePrint",
+            "notifications" : null,
+            "url" : "https://t.co/M986zC627b",
+            "created_at" : "Mon Dec 15 10:12:15 +0000 2014",
+            "contributors_enabled" : false,
+            "time_zone" : "New Delhi",
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Fri Dec 01 10:40:00 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "936548610342141952",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 149884554,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "verified" : true,
+        "translator_type" : "none",
+        "profile_text_color" : "000000",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/938002386634682369/X0NWSZKv_normal.jpg",
+        "profile_sidebar_fill_color" : "000000",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/Ht7JonUDYD",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "https://theprint.in/",
+                        "display_url" : "theprint.in"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 8870,
+        "profile_sidebar_border_color" : "000000",
+        "id_str" : "149884554",
+        "profile_background_color" : "ABB8C2",
+        "listed_count" : 152,
+        "is_translation_enabled" : false,
+        "utc_offset" : 19800,
+        "statuses_count" : 12694,
+        "description" : "Journalist. Reporting from India's power centre. Writing on whereever reporting takes me. Deputy Editor @ThePrintIndia",
+        "friends_count" : 708,
+        "location" : "Delhi",
+        "profile_link_color" : "ABB8C2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/938002386634682369/X0NWSZKv_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/149884554/1501486633",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "screen_name" : "anubhutivishnoi",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 6710,
+        "name" : "Anubhuti Vishnoi",
+        "notifications" : null,
+        "url" : "https://t.co/Ht7JonUDYD",
+        "created_at" : "Sun May 30 13:52:56 +0000 2010",
+        "contributors_enabled" : false,
+        "time_zone" : "New Delhi",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Fri Dec 01 10:52:43 +0000 2017",
+    "quoted_status_id_str" : "936545410868326400",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e41088e"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @PakAirQuality: 11,099 fire alerts from #cropburning across Pakistan in November 2017. Most of them were in Punjab, especially in the ar…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(936267823864844289),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : NumberLong(817706192004751360),
+                "indices" : [ 
+                    3, 
+                    17
+                ],
+                "id_str" : "817706192004751360",
+                "screen_name" : "PakAirQuality",
+                "name" : "PakistanAirQuality"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    43, 
+                    55
+                ],
+                "text" : "cropburning"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 4,
+    "id_str" : "936267823864844289",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "11,099 fire alerts from #cropburning across Pakistan in November 2017. Most of them were in Punjab, especially in t… https://t.co/INi4IscS29",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(936225849090691074),
+        "favorite_count" : 4,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        24, 
+                        36
+                    ],
+                    "text" : "cropburning"
+                }
+            ],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/INi4IscS29",
+                    "indices" : [ 
+                        117, 
+                        140
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/936225849090691074",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 4,
+        "id_str" : "936225849090691074",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : NumberLong(817706192004751360),
+            "profile_background_image_url_https" : null,
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/821621415178858497/Ji_urBPo_normal.jpg",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "entities" : {
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 629,
+            "profile_sidebar_border_color" : "C0DEED",
+            "id_str" : "817706192004751360",
+            "profile_background_color" : "F5F8FA",
+            "listed_count" : 14,
+            "is_translation_enabled" : false,
+            "utc_offset" : 18000,
+            "statuses_count" : 327,
+            "description" : "پاکی Pakistan Air Quality Initiative provides community driven air quality reports to increase social awareness #opendata founded by @abido",
+            "friends_count" : 53,
+            "location" : "Pakistan",
+            "profile_link_color" : "1DA1F2",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/821621415178858497/Ji_urBPo_normal.jpg",
+            "following" : null,
+            "geo_enabled" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/817706192004751360/1484920404",
+            "profile_background_image_url" : null,
+            "screen_name" : "PakAirQuality",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 21,
+            "name" : "PakistanAirQuality",
+            "notifications" : null,
+            "url" : null,
+            "created_at" : "Sat Jan 07 12:15:23 +0000 2017",
+            "contributors_enabled" : false,
+            "time_zone" : "Karachi",
+            "protected" : false,
+            "default_profile" : true,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Thu Nov 30 13:30:11 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : NumberLong(773900103627268096),
+        "profile_background_image_url_https" : null,
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/787012551456555008/BmL-slmh_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/Cv29FTR8eT",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "http://airqualityasia.org",
+                        "display_url" : "airqualityasia.org"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 148,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "773900103627268096",
+        "profile_background_color" : "F5F8FA",
+        "listed_count" : 4,
+        "is_translation_enabled" : false,
+        "utc_offset" : null,
+        "statuses_count" : 543,
+        "description" : "AQA is a global campaign that works with legislators to strengthen air quality frameworks in Asia. Convened by @ShaziaZRafi - RTs/likes not endorsements",
+        "friends_count" : 343,
+        "location" : "Global",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/787012551456555008/BmL-slmh_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/773900103627268096/1485884776",
+        "profile_background_image_url" : null,
+        "screen_name" : "AirQualityAsia",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 430,
+        "name" : "AirQualityAsia",
+        "notifications" : null,
+        "url" : "https://t.co/Cv29FTR8eT",
+        "created_at" : "Thu Sep 08 15:05:37 +0000 2016",
+        "contributors_enabled" : false,
+        "time_zone" : null,
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Thu Nov 30 16:16:58 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e41088f"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @PakAirQuality: 11,099 fire alerts from #cropburning across Pakistan in November 2017. Most of them were in Punjab, especially in the ar…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(936244349905588224),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : NumberLong(817706192004751360),
+                "indices" : [ 
+                    3, 
+                    17
+                ],
+                "id_str" : "817706192004751360",
+                "screen_name" : "PakAirQuality",
+                "name" : "PakistanAirQuality"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    43, 
+                    55
+                ],
+                "text" : "cropburning"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 4,
+    "id_str" : "936244349905588224",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "11,099 fire alerts from #cropburning across Pakistan in November 2017. Most of them were in Punjab, especially in t… https://t.co/INi4IscS29",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(936225849090691074),
+        "favorite_count" : 4,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        24, 
+                        36
+                    ],
+                    "text" : "cropburning"
+                }
+            ],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/INi4IscS29",
+                    "indices" : [ 
+                        117, 
+                        140
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/936225849090691074",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 4,
+        "id_str" : "936225849090691074",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : NumberLong(817706192004751360),
+            "profile_background_image_url_https" : null,
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/821621415178858497/Ji_urBPo_normal.jpg",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "entities" : {
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 629,
+            "profile_sidebar_border_color" : "C0DEED",
+            "id_str" : "817706192004751360",
+            "profile_background_color" : "F5F8FA",
+            "listed_count" : 14,
+            "is_translation_enabled" : false,
+            "utc_offset" : 18000,
+            "statuses_count" : 327,
+            "description" : "پاکی Pakistan Air Quality Initiative provides community driven air quality reports to increase social awareness #opendata founded by @abido",
+            "friends_count" : 53,
+            "location" : "Pakistan",
+            "profile_link_color" : "1DA1F2",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/821621415178858497/Ji_urBPo_normal.jpg",
+            "following" : null,
+            "geo_enabled" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/817706192004751360/1484920404",
+            "profile_background_image_url" : null,
+            "screen_name" : "PakAirQuality",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 21,
+            "name" : "PakistanAirQuality",
+            "notifications" : null,
+            "url" : null,
+            "created_at" : "Sat Jan 07 12:15:23 +0000 2017",
+            "contributors_enabled" : false,
+            "time_zone" : "Karachi",
+            "protected" : false,
+            "default_profile" : true,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Thu Nov 30 13:30:11 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : false,
+        "default_profile_image" : false,
+        "id" : NumberLong(815344758562418691),
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "000000",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/919915289290182656/IZEgjNsf_normal.jpg",
+        "profile_sidebar_fill_color" : "000000",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/6hE8BglC0F",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "https://airsouthasia.org",
+                        "display_url" : "airsouthasia.org"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 382,
+        "profile_sidebar_border_color" : "000000",
+        "id_str" : "815344758562418691",
+        "profile_background_color" : "000000",
+        "listed_count" : 12,
+        "is_translation_enabled" : false,
+        "utc_offset" : -21600,
+        "statuses_count" : 1729,
+        "description" : "Everything about air quality in South Asia, curated by @pallavipnt; founded by @pallavipnt and @AnobhaG",
+        "friends_count" : 168,
+        "location" : "",
+        "profile_link_color" : "7FDBB6",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/919915289290182656/IZEgjNsf_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/815344758562418691/1492861920",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "airsouthasia",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 291,
+        "name" : "Air South Asia",
+        "notifications" : null,
+        "url" : "https://t.co/6hE8BglC0F",
+        "created_at" : "Sat Dec 31 23:51:53 +0000 2016",
+        "contributors_enabled" : false,
+        "time_zone" : "Central Time (US & Canada)",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Thu Nov 30 14:43:42 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e410890"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @PakAirQuality: 11,099 fire alerts from #cropburning across Pakistan in November 2017. Most of them were in Punjab, especially in the ar…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(936229630524129280),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : NumberLong(817706192004751360),
+                "indices" : [ 
+                    3, 
+                    17
+                ],
+                "id_str" : "817706192004751360",
+                "screen_name" : "PakAirQuality",
+                "name" : "PakistanAirQuality"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    43, 
+                    55
+                ],
+                "text" : "cropburning"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 4,
+    "id_str" : "936229630524129280",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "11,099 fire alerts from #cropburning across Pakistan in November 2017. Most of them were in Punjab, especially in t… https://t.co/INi4IscS29",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(936225849090691074),
+        "favorite_count" : 4,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        24, 
+                        36
+                    ],
+                    "text" : "cropburning"
+                }
+            ],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/INi4IscS29",
+                    "indices" : [ 
+                        117, 
+                        140
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/936225849090691074",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 4,
+        "id_str" : "936225849090691074",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : NumberLong(817706192004751360),
+            "profile_background_image_url_https" : null,
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/821621415178858497/Ji_urBPo_normal.jpg",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "entities" : {
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 629,
+            "profile_sidebar_border_color" : "C0DEED",
+            "id_str" : "817706192004751360",
+            "profile_background_color" : "F5F8FA",
+            "listed_count" : 14,
+            "is_translation_enabled" : false,
+            "utc_offset" : 18000,
+            "statuses_count" : 327,
+            "description" : "پاکی Pakistan Air Quality Initiative provides community driven air quality reports to increase social awareness #opendata founded by @abido",
+            "friends_count" : 53,
+            "location" : "Pakistan",
+            "profile_link_color" : "1DA1F2",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/821621415178858497/Ji_urBPo_normal.jpg",
+            "following" : null,
+            "geo_enabled" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/817706192004751360/1484920404",
+            "profile_background_image_url" : null,
+            "screen_name" : "PakAirQuality",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 21,
+            "name" : "PakistanAirQuality",
+            "notifications" : null,
+            "url" : null,
+            "created_at" : "Sat Jan 07 12:15:23 +0000 2017",
+            "contributors_enabled" : false,
+            "time_zone" : "Karachi",
+            "protected" : false,
+            "default_profile" : true,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Thu Nov 30 13:30:11 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : NumberLong(2342769294),
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/927440826455560192/WusudMGk_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 83,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "2342769294",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 0,
+        "is_translation_enabled" : false,
+        "utc_offset" : 18000,
+        "statuses_count" : 1549,
+        "description" : "Civil Engineer, A Proud Pakistani",
+        "friends_count" : 308,
+        "location" : "",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/927440826455560192/WusudMGk_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2342769294/1453899330",
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "ShahanSaleem",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 619,
+        "name" : "Rana Shahan",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Fri Feb 14 00:30:03 +0000 2014",
+        "contributors_enabled" : false,
+        "time_zone" : "Islamabad",
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Thu Nov 30 13:45:12 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e410891"),
+    "contributors" : null,
+    "truncated" : false,
+    "text" : "RT @PakAirQuality: 11,099 fire alerts from #cropburning across Pakistan in November 2017. Most of them were in Punjab, especially in the ar…",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(936227200633843712),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [ 
+            {
+                "id" : NumberLong(817706192004751360),
+                "indices" : [ 
+                    3, 
+                    17
+                ],
+                "id_str" : "817706192004751360",
+                "screen_name" : "PakAirQuality",
+                "name" : "PakistanAirQuality"
+            }
+        ],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    43, 
+                    55
+                ],
+                "text" : "cropburning"
+            }
+        ],
+        "urls" : []
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 4,
+    "id_str" : "936227200633843712",
+    "favorited" : false,
+    "retweeted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "11,099 fire alerts from #cropburning across Pakistan in November 2017. Most of them were in Punjab, especially in t… https://t.co/INi4IscS29",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(936225849090691074),
+        "favorite_count" : 4,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [],
+            "hashtags" : [ 
+                {
+                    "indices" : [ 
+                        24, 
+                        36
+                    ],
+                    "text" : "cropburning"
+                }
+            ],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/INi4IscS29",
+                    "indices" : [ 
+                        117, 
+                        140
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/936225849090691074",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 4,
+        "id_str" : "936225849090691074",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : NumberLong(817706192004751360),
+            "profile_background_image_url_https" : null,
+            "verified" : false,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/821621415178858497/Ji_urBPo_normal.jpg",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "entities" : {
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 629,
+            "profile_sidebar_border_color" : "C0DEED",
+            "id_str" : "817706192004751360",
+            "profile_background_color" : "F5F8FA",
+            "listed_count" : 14,
+            "is_translation_enabled" : false,
+            "utc_offset" : 18000,
+            "statuses_count" : 327,
+            "description" : "پاکی Pakistan Air Quality Initiative provides community driven air quality reports to increase social awareness #opendata founded by @abido",
+            "friends_count" : 53,
+            "location" : "Pakistan",
+            "profile_link_color" : "1DA1F2",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/821621415178858497/Ji_urBPo_normal.jpg",
+            "following" : null,
+            "geo_enabled" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/817706192004751360/1484920404",
+            "profile_background_image_url" : null,
+            "screen_name" : "PakAirQuality",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 21,
+            "name" : "PakistanAirQuality",
+            "notifications" : null,
+            "url" : null,
+            "created_at" : "Sat Jan 07 12:15:23 +0000 2017",
+            "contributors_enabled" : false,
+            "time_zone" : "Karachi",
+            "protected" : false,
+            "default_profile" : true,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Thu Nov 30 13:30:11 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 37627568,
+        "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/680677542/94938cf3fa446821bda2a8488b36ad78.gif",
+        "verified" : false,
+        "translator_type" : "regular",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/564738710185328640/zl8s4hFM_normal.png",
+        "profile_sidebar_fill_color" : "A0C5C7",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/cG4GmHBz8t",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "http://www.ahsanjamil.com",
+                        "display_url" : "ahsanjamil.com"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/qXN8xXuAcb",
+                        "indices" : [ 
+                            98, 
+                            121
+                        ],
+                        "expanded_url" : "https://www.strava.com/athletes/ahsanj",
+                        "display_url" : "strava.com/athletes/ahsanj"
+                    }
+                ]
+            }
+        },
+        "followers_count" : 1855,
+        "profile_sidebar_border_color" : "FFFFFF",
+        "id_str" : "37627568",
+        "profile_background_color" : "709397",
+        "listed_count" : 218,
+        "is_translation_enabled" : false,
+        "utc_offset" : 18000,
+        "statuses_count" : 60006,
+        "description" : "Stocks, Interests in Emerging Markets, Portfolio Management, Technical Analysis, Coffee & Cycling https://t.co/qXN8xXuAcb ahsan@ahsanjamil.com",
+        "friends_count" : 2244,
+        "location" : "Karachi",
+        "profile_link_color" : "6600FF",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/564738710185328640/zl8s4hFM_normal.png",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/37627568/1457370887",
+        "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/680677542/94938cf3fa446821bda2a8488b36ad78.gif",
+        "screen_name" : "ajlongshanks",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 11166,
+        "name" : "Ahsan Jamil",
+        "notifications" : null,
+        "url" : "https://t.co/cG4GmHBz8t",
+        "created_at" : "Mon May 04 09:26:07 +0000 2009",
+        "contributors_enabled" : false,
+        "time_zone" : "Karachi",
+        "protected" : false,
+        "default_profile" : false,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "lang" : "en",
+    "created_at" : "Thu Nov 30 13:35:33 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e410892"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "11,099 fire alerts from #cropburning across Pakistan in November 2017. Most of them were in Punjab, especially in t… https://t.co/INi4IscS29",
+    "is_quote_status" : false,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(936225849090691074),
+    "favorite_count" : 4,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    24, 
+                    36
+                ],
+                "text" : "cropburning"
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/INi4IscS29",
+                "indices" : [ 
+                    117, 
+                    140
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/936225849090691074",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "retweeted" : false,
+    "coordinates" : null,
+    "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 4,
+    "id_str" : "936225849090691074",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : false,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : NumberLong(817706192004751360),
+        "profile_background_image_url_https" : null,
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/821621415178858497/Ji_urBPo_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 629,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "817706192004751360",
+        "profile_background_color" : "F5F8FA",
+        "listed_count" : 14,
+        "is_translation_enabled" : false,
+        "utc_offset" : 18000,
+        "statuses_count" : 327,
+        "description" : "پاکی Pakistan Air Quality Initiative provides community driven air quality reports to increase social awareness #opendata founded by @abido",
+        "friends_count" : 53,
+        "location" : "Pakistan",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/821621415178858497/Ji_urBPo_normal.jpg",
+        "following" : null,
+        "geo_enabled" : false,
+        "profile_banner_url" : "https://pbs.twimg.com/profile_banners/817706192004751360/1484920404",
+        "profile_background_image_url" : null,
+        "screen_name" : "PakAirQuality",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 21,
+        "name" : "PakistanAirQuality",
+        "notifications" : null,
+        "url" : null,
+        "created_at" : "Sat Jan 07 12:15:23 +0000 2017",
+        "contributors_enabled" : false,
+        "time_zone" : "Karachi",
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Thu Nov 30 13:30:11 +0000 2017",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5a2c6ffa77e9d43d7e410893"),
+    "contributors" : null,
+    "truncated" : true,
+    "text" : "This seems like a good way to fix the #cropburning issue. Really, why not? Get a bunch of 4x4s and let em rip...out… https://t.co/3I9aHToNiM",
+    "is_quote_status" : true,
+    "in_reply_to_status_id" : null,
+    "id" : NumberLong(936089609502461953),
+    "favorite_count" : 0,
+    "entities" : {
+        "symbols" : [],
+        "user_mentions" : [],
+        "hashtags" : [ 
+            {
+                "indices" : [ 
+                    38, 
+                    50
+                ],
+                "text" : "cropburning"
+            }
+        ],
+        "urls" : [ 
+            {
+                "url" : "https://t.co/3I9aHToNiM",
+                "indices" : [ 
+                    117, 
+                    140
+                ],
+                "expanded_url" : "https://twitter.com/i/web/status/936089609502461953",
+                "display_url" : "twitter.com/i/web/status/9…"
+            }
+        ]
+    },
+    "quoted_status_id" : NumberLong(935911666738327552),
+    "retweeted" : false,
+    "coordinates" : null,
+    "quoted_status" : {
+        "contributors" : null,
+        "truncated" : true,
+        "text" : "Dreamed up this project with @redbull - so proud to share it with you guys! I hope you enjoy this as much as I enjo… https://t.co/8LUIIFTuug",
+        "is_quote_status" : false,
+        "in_reply_to_status_id" : null,
+        "id" : NumberLong(935911666738327552),
+        "favorite_count" : 2319,
+        "entities" : {
+            "symbols" : [],
+            "user_mentions" : [ 
+                {
+                    "id" : 17540485,
+                    "indices" : [ 
+                        29, 
+                        37
+                    ],
+                    "id_str" : "17540485",
+                    "screen_name" : "redbull",
+                    "name" : "Red Bull"
+                }
+            ],
+            "hashtags" : [],
+            "urls" : [ 
+                {
+                    "url" : "https://t.co/8LUIIFTuug",
+                    "indices" : [ 
+                        117, 
+                        140
+                    ],
+                    "expanded_url" : "https://twitter.com/i/web/status/935911666738327552",
+                    "display_url" : "twitter.com/i/web/status/9…"
+                }
+            ]
+        },
+        "retweeted" : false,
+        "coordinates" : null,
+        "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_screen_name" : null,
+        "in_reply_to_user_id" : null,
+        "retweet_count" : 717,
+        "id_str" : "935911666738327552",
+        "favorited" : false,
+        "user" : {
+            "follow_request_sent" : null,
+            "has_extended_profile" : false,
+            "profile_use_background_image" : true,
+            "default_profile_image" : false,
+            "id" : 40524721,
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/381645212/Background.jpg",
+            "verified" : true,
+            "translator_type" : "none",
+            "profile_text_color" : "333333",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/638390479210549249/aXYCoJxp_normal.jpg",
+            "profile_sidebar_fill_color" : "EFEFEF",
+            "entities" : {
+                "url" : {
+                    "urls" : [ 
+                        {
+                            "url" : "http://t.co/g0Pw32T21I",
+                            "indices" : [ 
+                                0, 
+                                22
+                            ],
+                            "expanded_url" : "http://www.ryandungey.com/",
+                            "display_url" : "ryandungey.com"
+                        }
+                    ]
+                },
+                "description" : {
+                    "urls" : []
+                }
+            },
+            "followers_count" : 257271,
+            "profile_sidebar_border_color" : "EEEEEE",
+            "id_str" : "40524721",
+            "profile_background_color" : "131516",
+            "listed_count" : 1029,
+            "is_translation_enabled" : false,
+            "utc_offset" : -18000,
+            "statuses_count" : 4723,
+            "description" : "Professional motocross racer for Team Redbull/ KTM",
+            "friends_count" : 618,
+            "location" : "",
+            "profile_link_color" : "009999",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/638390479210549249/aXYCoJxp_normal.jpg",
+            "following" : null,
+            "geo_enabled" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/40524721/1409792769",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/381645212/Background.jpg",
+            "screen_name" : "RyanDungey",
+            "lang" : "en",
+            "profile_background_tile" : false,
+            "favourites_count" : 588,
+            "name" : "Ryan Dungey",
+            "notifications" : null,
+            "url" : "http://t.co/g0Pw32T21I",
+            "created_at" : "Sat May 16 19:23:21 +0000 2009",
+            "contributors_enabled" : false,
+            "time_zone" : "Eastern Time (US & Canada)",
+            "protected" : false,
+            "default_profile" : false,
+            "is_translator" : false
+        },
+        "geo" : null,
+        "in_reply_to_user_id_str" : null,
+        "possibly_sensitive" : false,
+        "lang" : "en",
+        "created_at" : "Wed Nov 29 16:41:44 +0000 2017",
+        "in_reply_to_status_id_str" : null,
+        "place" : null,
+        "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+        }
+    },
+    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_screen_name" : null,
+    "in_reply_to_user_id" : null,
+    "retweet_count" : 0,
+    "id_str" : "936089609502461953",
+    "favorited" : false,
+    "user" : {
+        "follow_request_sent" : null,
+        "has_extended_profile" : true,
+        "profile_use_background_image" : true,
+        "default_profile_image" : false,
+        "id" : 282019155,
+        "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "verified" : false,
+        "translator_type" : "none",
+        "profile_text_color" : "333333",
+        "profile_image_url_https" : "https://pbs.twimg.com/profile_images/934352870836617219/f2aQBwJc_normal.jpg",
+        "profile_sidebar_fill_color" : "DDEEF6",
+        "entities" : {
+            "url" : {
+                "urls" : [ 
+                    {
+                        "url" : "https://t.co/kwAGIC40un",
+                        "indices" : [ 
+                            0, 
+                            23
+                        ],
+                        "expanded_url" : "http://indiatoday.intoday.in/auto/",
+                        "display_url" : "indiatoday.intoday.in/auto/"
+                    }
+                ]
+            },
+            "description" : {
+                "urls" : []
+            }
+        },
+        "followers_count" : 158,
+        "profile_sidebar_border_color" : "C0DEED",
+        "id_str" : "282019155",
+        "profile_background_color" : "C0DEED",
+        "listed_count" : 4,
+        "is_translation_enabled" : false,
+        "utc_offset" : 19800,
+        "statuses_count" : 596,
+        "description" : "Motornerding since when was between way and way back. Senior Correspondent at AUTO TODAY, Delhi.",
+        "friends_count" : 362,
+        "location" : "New Delhi, India",
+        "profile_link_color" : "1DA1F2",
+        "profile_image_url" : "http://pbs.twimg.com/profile_images/934352870836617219/f2aQBwJc_normal.jpg",
+        "following" : null,
+        "geo_enabled" : true,
+        "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "screen_name" : "runsimrun",
+        "lang" : "en",
+        "profile_background_tile" : false,
+        "favourites_count" : 161,
+        "name" : "Simran Rastogi",
+        "notifications" : null,
+        "url" : "https://t.co/kwAGIC40un",
+        "created_at" : "Thu Apr 14 12:05:46 +0000 2011",
+        "contributors_enabled" : false,
+        "time_zone" : "New Delhi",
+        "protected" : false,
+        "default_profile" : true,
+        "is_translator" : false
+    },
+    "geo" : null,
+    "in_reply_to_user_id_str" : null,
+    "possibly_sensitive" : false,
+    "lang" : "en",
+    "created_at" : "Thu Nov 30 04:28:49 +0000 2017",
+    "quoted_status_id_str" : "935911666738327552",
+    "in_reply_to_status_id_str" : null,
+    "place" : null,
+    "metadata" : {
+        "iso_language_code" : "en",
+        "result_type" : "recent"
+    }
+}

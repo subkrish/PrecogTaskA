@@ -1,0 +1,254 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Top 10 Hashtags</title>
+    <!-- Bootstrap Styles-->
+    <link href="{{ url_for('static', filename='css/bootstrap.css') }}" rel="stylesheet" />
+    <!-- FontAwesome Styles-->
+    <link href="{{ url_for('static', filename='css/font-awesome.min.css') }}" rel="stylesheet" />
+    <!-- Morris Chart Styles-->
+    <link href="{{ url_for('static', filename='js/morris/morris-0.4.3.min.css') }}" rel="stylesheet" />
+    <!-- Custom Styles-->
+    <link href="{{ url_for('static', filename='css/custom-styles.css') }}" rel="stylesheet" />
+    <!-- Google Fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+</head>
+
+<body>
+    <div id="wrapper">
+        <nav class="navbar navbar-default top-navbar" role="navigation">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://precog.iiitd.edu.in">
+                    <img src="/static/images/precog2.png" style = "max-width: 120px; margin-top: -5px;">
+                </a>
+            </div>
+
+            <ul class="nav navbar-top-links navbar-right">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" aria-expanded="false">
+                        <i class="fa fa-home fa-fw"></i> <i class="fa fa-caret-down"></i>
+                    </a>
+                    <ul class="dropdown-menu dropdown-home">
+                        <li><a href="/"><i class="fa fa-arrow-right fa-fw"></i><i class="fa fa-home fa-fw"></i> Home Page</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li><a href="/home"><i class="fa fa-arrow-right fa-fw"></i> Main Dashboard</a>
+                        </li>
+                    </ul>
+                    <!-- /.dropdown-user -->
+                </li>
+                <!-- /.dropdown -->
+            </ul>
+        </nav>
+        <!--/. NAV TOP  -->
+        <nav class="navbar-default navbar-side" role="navigation">
+            <div class="sidebar-collapse">
+                <ul class="nav" id="main-menu">
+
+                    <li>
+                        <a class="active-menu" href="/home"><i class="fa fa-home fa-2x"></i> Main Dashboard</a>
+                    </li>
+                    <li>
+                        <a href="/network"><i class="fa fa-globe fa-2x"></i> Network</a>
+                    </li>
+					<li>
+                        <a href="#"><i class="fa fa-map-marker"></i> Location Analysis<span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li>
+                                <a href="/location">Location of Tweets</a>
+                            </li>
+                            <li>
+                                <a href="/locationactivity">Activity Distribution based on Location</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/top10hashtags"><i class="fa fa-bar-chart-o fa-2x"></i> Top 10 Hashtags</a>
+                    </li>
+                    
+                    <li>
+                        <a href="/originalvretweet"><i class="fa fa-twitter fa-2x"></i> Original vs. Retweet</a>
+                    </li>
+                    <li>
+                        <a href="/typeoftweet"><i class="fa fa-twitter fa-2x"></i> Type of Tweets</a>
+                    </li>
+                </ul>
+
+            </div>
+
+        </nav>
+        <!-- /. NAV SIDE  -->
+        <div id="page-wrapper">
+            <div id="page-inner">
+
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="page-header">
+                            Top 10 Hashtags
+                        </h1>
+                    </div>
+                </div>
+                <!-- /. ROW  -->
+
+                <div class="row">
+                    <div class="col-md-3 col-sm-12 col-xs-12">
+                        <div class="panel panel-primary text-center no-boder bg-color-green">
+                            <div class="panel-body">
+                                <i class="fa fa-twitter fa-5x"></i>
+                                <h3>22,038</h3>
+                            </div>
+                            <div class="panel-footer back-footer-green">
+                                Tweets
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12 col-xs-12">
+                        <div class="panel panel-primary text-center no-boder bg-color-blue">
+                            <div class="panel-body">
+                                <i class="fa fa-hashtag fa-5x"></i>
+                                <h3>2,176 </h3>
+                            </div>
+                            <div class="panel-footer back-footer-blue">
+                                Hashtags
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12 col-xs-12">
+                        <div class="panel panel-primary text-center no-boder bg-color-red">
+                            <div class="panel-body">
+                                <i class="fa fa fa-retweet fa-5x"></i>
+                                <h3>11,151,775 </h3>
+                            </div>
+                            <div class="panel-footer back-footer-red">
+                                Retweets
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12 col-xs-12">
+                        <div class="panel panel-primary text-center no-boder bg-color-brown">
+                            <div class="panel-body">
+                                <i class="fa fa-heart fa-5x"></i>
+                                <h3>64,483 </h3>
+                            </div>
+                            <div class="panel-footer back-footer-brown">
+                                Favorites
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12 col-xs-12">
+                        <div class="panel panel-primary text-center no-boder bg-color-blue">
+                            <div class="panel-body">
+                                <i class="fa fa-globe fa-5x"></i>
+                                <h3>46 </h3>
+                            </div>
+                            <div class="panel-footer back-footer-blue">
+                                Countries
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12 col-xs-12">
+                        <div class="panel panel-primary text-center no-boder bg-color-red">
+                            <div class="panel-body">
+                                <i class="fa fa-building fa-5x"></i>
+                                <h3>260 </h3>
+                            </div>
+                            <div class="panel-footer back-footer-red">
+                                In-City Tweets
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12 col-xs-12">
+                        <div class="panel panel-primary text-center no-boder bg-color-brown">
+                            <div class="panel-body">
+                                <i class="fa fa-building fa-5x"></i>
+                                <h3>328 </h3>
+                            </div>
+                            <div class="panel-footer back-footer-brown">
+                                Out-of-City Tweets
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12 col-xs-12">
+                        <div class="panel panel-primary text-center no-boder bg-color-green">
+                            <div class="panel-body">
+                                <i class="fa fa-picture-o fa-5x"></i>
+                                <h3>3100+ </h3>
+                            </div>
+                            <div class="panel-footer back-footer-green">
+                                Images
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="row">
+
+
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                Top 10 Handles - Delhi Pollution (Click to see more information)
+                            </div>
+                            <div class="panel-body">
+                                <a href="/top10hashtags/DelhiPollution">
+                                    <img src="/static/images/top10HandlesDelhi.png" style = "max-width: 500px;">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                Top 10 Handles - Mumbai Rains (Click to see more information)
+                            </div>
+                            <div class="panel-body">
+                                <a href="/top10hashtags/MumbaiRains">
+                                    <img src="/static/images/top10HandlesMumbai.png" style = "max-width: 500px;">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!-- /. PAGE INNER  -->
+        </div>
+        <!-- /. PAGE WRAPPER  -->
+    </div>
+    <!-- /. WRAPPER  -->
+    <!-- JS Scripts-->
+    <!-- jQuery Js -->
+    <script src="{{ url_for('static', filename='js/jquery-1.10.2.js') }}"></script>
+    <!-- Bootstrap Js -->
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <!-- Metis Menu Js -->
+    <script src="{{ url_for('static', filename='js/jquery.metisMenu.js') }}"></script>
+    <!-- Morris Chart Js -->
+    <script src="{{ url_for('static', filename='js/morris/raphael-2.1.0.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/morris/morris.js') }}"></script>
+    <!-- Custom Js -->
+    <script src="{{ url_for('static', filename='js/custom-scripts.js') }}"></script>
+
+
+</body>
+
+</html>
