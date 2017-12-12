@@ -31,6 +31,10 @@ def home():
 def homeAnalysis():
 	return render_template("index2.html")
 
+@app.route('/network')
+def network():
+	return render_template("network.html")
+
 @app.route('/location')
 def location():
 	return render_template("location.html")
